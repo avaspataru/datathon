@@ -1,0 +1,60 @@
+expense_category,breakdown,baseline_budget,31/12/2011_forecast,31/03/2012_forecast,variance
+Site Preparation and Infrastructure,Powerlines,282,286,287,1
+Site Preparation and Infrastructure,Utilities,256,238,235,-3
+Site Preparation and Infrastructure,Enabling Works,364,386,386,0
+Site Preparation and Infrastructure,F10 Bridge,89,56,55,-1
+Site Preparation and Infrastructure,"Other Structures, Bridges and Highways",740,553,565,12
+Site Preparation and Infrastructure,South Park Site Preparation,116,82,82,0
+Site Preparation and Infrastructure,Prescott Lock,5,5,5,0
+Site Preparation and Infrastructure,Other Infrastructure (Landscaping),243,208,207,-1
+Site Preparation and Infrastructure,Total Site Preparation and Infrastructure,2095,1814,1822,8
+Venues,Stadium,496,431,428,-3
+Venues,Aquatics,214,253,251,-2
+Venues,Velopark,72,86,87,1
+Venues,Handball,55,41,41,0
+Venues,Basketball,58,40,40,0
+Venues,Other Olympic Park Venues,59,101,101,0
+Venues,Non-Olympic Park Venues,84,111,103,-8
+Venues,Total Venues,1038,1063,1051,-12
+Venues Operations,Venues Reconfiguration,17,55,55,0
+Venues Operations,Total Venues Operations,17,55,55,0
+Transport,Stratford Regional Station,119,121,120,-1
+Transport,DLR,86,80,80,0
+Transport,Thorntons Field,47,23,23,0
+Transport,North London Line,110,107,107,0
+Transport,Other transport capital projects,178,98,99,1
+Transport,Other transport operating expenditure,357,457,465,8
+Transport,Total Transport Projects,897,886,894,8
+Parkwide Projects,Logistics for site construction,337,243,239,-4
+Parkwide Projects,Security for park construction,354,238,228,-10
+Parkwide Projects,Section 106 and masterplanning,127,96,94,-2
+Parkwide Projects,Insurance,50,50,50,0
+Parkwide Projects,Parkwide Operations,0,203,209,6
+Parkwide Projects,Security screening and operational areas,0,48,49,1
+Parkwide Projects,Other Parkwide Projects,0,26,27,1
+Parkwide Projects,Total Parkwide Projects,868,904,896,-8
+Media Centre and Village,Stratford City Land and Infrastructure,522,623,618,-5
+Media Centre and Village,Stratford City Development Plots,-250,-71,-71,0
+Media Centre and Village,Village Construction — public sector funding,0,701,712,11
+Media Centre and Village,Village Receipt,0,-324,-324,0
+Media Centre and Village,IBC/MPC,220,292,295,3
+Media Centre and Village,Total Media Centre and Village,492,1221,1230,9
+Programme Delivery,,647,737,729,-8
+Taxation and Interest,,73,-5,-4,1
+Total AFC Before Contingency,,6127,6675,6673,-2
+Assessed Risk programme contingency,,968,102,88,-14
+Public Sector Funding Package,ODA 1,7321,6777,6761,-16
+Public Sector Funding Package,ODA programme contingency,,102,88,-14
+Public Sector Funding Package,Park Transformation1,0,294,296,2
+Public Sector Funding Package, Policing and wider security,475,475,475,
+Public Sector Funding Package,Elite and community sports,290,290,290,
+Public Sector Funding Package,Venue security,282,553,553,
+Public Sector Funding Package,Paralympic Games,95,95,95,
+Public Sector Funding Package,LOCOG Park Operations,67,67,68,1
+Public Sector Funding Package,Funding available to LOCOG,65,154,183,29
+Public Sector Funding Package,Operational provisions2,62,95,102,22
+Public Sector Funding Package,‘Look’ of London and wider UK,32,33,33,
+Public Sector Funding Package,City operations,22,23,23,
+Public Sector Funding Package,Domestic and International tourism campaigns,0,4,4,
+Public Sector Funding Package - ,GLA Olympic and Paralympic programmes,0,13,13,
+Public Sector Funding Package,PSFP contingency and other savings remaining,587,425,403,-37

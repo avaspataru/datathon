@@ -1,0 +1,270 @@
+station,line,local_authority,zone,opened
+Acton Town,District,Ealing,3,1879-07-01
+Aldgate,Metropolitan[a],City of London,1,1876-11-18
+Aldgate East,Hammersmith & City[d],Tower Hamlets,1,1884-10-06
+Alperton,Piccadilly[h],Brent,4,1903-06-28
+Amersham,Metropolitan,Chiltern,9,1892-09-01
+Angel,Northern,Islington,1,1901-11-17
+Archway,Northern,Islington,2 & 3,1907-06-22
+Arnos Grove,Piccadilly,Enfield,4,1932-09-19
+Arsenal,Piccadilly,Islington,2,1906-12-15
+Baker Street,Metropolitan[b],City of Westminster,1,1863-01-10
+Balham,Northern,Wandsworth,3,1926-12-06
+Bank,Waterloo & City,City of London,1,1898-08-08
+Barbican,Metropolitan[b],City of London,1,1865-12-23
+Barking,District[j],Barking and Dagenham,4,1902-06-02
+Barkingside,Central,Redbridge,4,1948-05-31
+Barons Court,District,Hammersmith and Fulham,2,1905-10-09
+Bayswater,District[c],City of Westminster,1,1868-10-01
+Becontree,District,Barking and Dagenham,5,1932-07-18
+Belsize Park,Northern,Camden,2,1907-06-22
+Bermondsey,Jubilee,Southwark,2,1999-09-17
+Bethnal Green,Central,Tower Hamlets,2,1946-12-04
+Blackfriars,District[i],City of London,1,1870-05-30
+Blackhorse Road,Victoria,Waltham Forest,3,1968-09-01
+Bond Street,Central,City of Westminster,1,1900-09-24
+Borough,Northern,Southwark,1,1890-12-18
+Boston Manor,Piccadilly[l],Ealing,4,1883-05-01
+Bounds Green,Piccadilly,Haringey,3 & 4,1932-09-19
+Bow Road,District[j],Tower Hamlets,2,1902-06-11
+Brent Cross,Northern,Barnet,3,1923-11-19
+Brixton,Victoria,Lambeth,2,1971-07-23
+Bromley-by-Bow,District[j],Tower Hamlets,2 & 3,1902-06-02
+Buckhurst Hill,Central,Epping Forest,5,1948-11-21
+Burnt Oak,Northern,Barnet,4,1924-10-27
+Caledonian Road,Piccadilly,Islington,2,1906-12-15
+Camden Town,Northern,Camden,2,1907-06-22
+Canada Water,Jubilee,Southwark,2,1999-09-17
+Canary Wharf,Jubilee,Tower Hamlets,2,1999-09-17
+Canning Town,Jubilee,Newham,3,1999-05-14
+Cannon Street,District[i],City of London,1,1884-10-06
+Canons Park,Jubilee[e],Harrow,5,1932-12-10
+Chalfont & Latimer,Metropolitan,Chiltern,8,1889-07-08
+Chalk Farm,Northern,Camden,2,1907-06-22
+Chancery Lane,Central,City of London,1,1900-07-30
+Charing Cross,Bakerloo,City of Westminster,1,1906-03-10
+Chesham,Metropolitan,Chiltern,9,1889-07-08
+Chigwell,Central,Epping Forest,4,1948-11-21
+Chiswick Park,District,Ealing,3,1879-07-01
+Chorleywood,Metropolitan,Three Rivers,7,1889-07-08
+Clapham Common,Northern,Lambeth,2,1900-06-03
+Clapham North,Northern,Lambeth,2,1900-06-03
+Clapham South,Northern,Wandsworth,2 & 3,1926-09-13
+Cockfosters,Piccadilly,Enfield,5,1933-07-31
+Colindale,Northern,Barnet,4,1924-08-18
+Colliers Wood,Northern,Merton,3,1926-09-13
+Covent Garden,Piccadilly,City of Westminster,1,1907-04-11
+Croxley,Metropolitan,Three Rivers,7,1925-11-02
+Dagenham East,District,Barking and Dagenham,5,1902-06-02
+Dagenham Heathway,District,Barking and Dagenham,5,1932-09-12
+Debden,Central,Epping Forest,6,1949-09-25
+Dollis Hill,Jubilee[e],Brent,3,1909-10-01
+Ealing Broadway,District,Ealing,3,1879-07-01
+Ealing Common,District,Ealing,3,1879-07-01
+Earl's Court,District,Kensington and Chelsea,1 & 2,1871-10-30
+East Acton,Central,Hammersmith and Fulham,2,1920-08-03
+East Finchley,Northern,Barnet,3,1939-07-03
+East Ham,District[j],Newham,3 & 4,1902-06-02
+East Putney,District,Wandsworth,2 & 3,1889-06-03
+Eastcote,Metropolitan,Hillingdon,5,1906-05-26
+Edgware,Northern,Barnet,5,1924-08-18
+Edgware Road,Bakerloo,City of Westminster,1,1907-06-15
+Edgware Road,Hammersmith & City[c][d],City of Westminster,1,1863-10-01
+Elephant & Castle,Northern,Southwark,1 & 2,1890-12-18
+Elm Park,District,Havering,6,1935-05-13
+Embankment,District[i],City of Westminster,1,1870-05-30
+Epping,Central,Epping Forest,6,1949-09-25
+Euston,Northern,Camden,1,1907-06-22
+Euston Square,Metropolitan[b],Camden,1,1863-01-10
+Fairlop,Central,Redbridge,4,1948-05-31
+Farringdon,Metropolitan[b],Islington,1,1863-01-10
+Finchley Central,Northern,Barnet,4,1940-04-14
+Finchley Road,Metropolitan,Camden,2,1879-06-30
+Finsbury Park,Piccadilly,Islington,2,1906-12-15
+Fulham Broadway,District,Hammersmith and Fulham,2,1880-03-01
+Gants Hill,Central,Redbridge,4,1947-12-14
+Gloucester Road,District[c],Kensington and Chelsea,1,1868-10-01
+Golders Green,Northern,Barnet,3,1907-06-22
+Goldhawk Road,Hammersmith & City[m],Hammersmith and Fulham,2,1914-04-01
+Goodge Street,Northern,Camden,1,1907-06-22
+Grange Hill,Central,Redbridge,4,1948-11-21
+Great Portland Street,Metropolitan[b],City of Westminster,1,1863-01-10
+Green Park,Piccadilly,City of Westminster,1,1906-12-15
+Greenford,Central,Ealing,4,1947-06-30
+Gunnersbury,District,Hounslow,3,1877-06-01
+Hainault,Central,Redbridge,4,1948-05-31
+Hammersmith,District,Hammersmith and Fulham,2,1874-09-09
+Hammersmith,Hammersmith & City[m],Hammersmith and Fulham,2,1864-06-13
+Hampstead,Northern,Camden,2 & 3,1907-06-22
+Hanger Lane,Central,Ealing,3,1947-06-30
+Harlesden,Bakerloo,Brent,3,1917-04-16
+Harrow & Wealdstone,Bakerloo,Harrow,5,1917-04-16
+Harrow-on-the-Hill,Metropolitan,Harrow,5,1880-08-02
+Hatton Cross,Piccadilly,Hillingdon,5 & 6,1975-07-19
+Heathrow Terminal 4,Piccadilly,Hillingdon,6,1986-04-12
+Heathrow Terminal 5,Piccadilly,Hillingdon,6,2008-03-27
+Heathrow Terminals 1; 2; 3,Piccadilly,Hillingdon,6,1977-12-16
+Hendon Central,Northern,Barnet,3 & 4,1923-11-19
+High Barnet,Northern,Barnet,5,1940-04-14
+High Street Kensington,District[c],Kensington and Chelsea,1,1868-10-01
+Highbury & Islington,Victoria,Islington,2,1968-09-01
+Highgate,Northern,Haringey,3,1941-01-19
+Hillingdon,Metropolitan,Hillingdon,6,1923-12-10
+Holborn,Central,Camden,1,1906-12-15
+Holland Park,Central,Kensington and Chelsea,2,1900-07-30
+Holloway Road,Piccadilly,Islington,2,1906-12-15
+Hornchurch,District,Havering,6,1902-06-02
+Hounslow Central,Piccadilly[l],Hounslow,4,1886-04-01
+Hounslow East,Piccadilly[l],Hounslow,4,1909-05-02
+Hounslow West,Piccadilly[l],Hounslow,5,1884-07-21
+Hyde Park Corner,Piccadilly,City of Westminster,1,1906-12-15
+Ickenham,Metropolitan,Hillingdon,6,1905-09-25
+Kennington,Northern,Southwark,2,1890-12-18
+Kensal Green,Bakerloo,Brent,2,1916-10-01
+Kensington (Olympia),District,Kensington and Chelsea,2,1864-07-01
+Kentish Town,Northern,Camden,2,1907-06-22
+Kenton,Bakerloo,Brent,4,1917-04-16
+Kew Gardens,District,Richmond,3 & 4,1877-06-01
+Kilburn,Jubilee[e],Brent,2,1879-11-24
+Kilburn Park,Bakerloo,Brent,2,1915-01-31
+King's Cross St. Pancras,Metropolitan[b],Camden,1,1863-01-10
+Kingsbury,Jubilee[e],Brent,4,1932-12-10
+Knightsbridge,Piccadilly,Kensington and Chelsea,1,1906-12-15
+Ladbroke Grove,Hammersmith & City[m],Kensington and Chelsea,2,1864-06-13
+Lambeth North,Bakerloo,Lambeth,1,1906-03-10
+Lancaster Gate,Central,City of Westminster,1,1900-07-30
+Latimer Road,Hammersmith & City[m],Kensington and Chelsea,2,1868-12-16
+Leicester Square,Piccadilly,City of Westminster,1,1906-12-15
+Leyton,Central,Waltham Forest,3,1947-05-05
+Leytonstone,Central,Waltham Forest,3 & 4,1947-05-05
+Liverpool Street,Metropolitan[b],City of London,1,1875-02-01
+London Bridge,Northern,Southwark,1,1900-02-25
+Loughton,Central,Epping Forest,6,1948-11-21
+Maida Vale,Bakerloo,City of Westminster,2,1915-06-06
+Manor House,Piccadilly,Hackney,2 & 3,1932-09-19
+Mansion House,District[i],City of London,1,1871-07-03
+Marble Arch,Central,City of Westminster,1,1900-07-30
+Marylebone,Bakerloo,City of Westminster,1,1907-03-27
+Mile End,District[j],Tower Hamlets,2,1902-06-02
+Mill Hill East,Northern,Barnet,4,1941-05-18
+Monument,District[i],City of London,1,1884-10-06
+Moor Park,Metropolitan,Three Rivers,6 & 7,1910-05-09
+Moorgate,Metropolitan[b],City of London,1,1865-12-23
+Morden,Northern,Merton,4,1926-09-13
+Mornington Crescent,Northern,Camden,2,1907-06-22
+Neasden,Jubilee[e],Brent,3,1880-08-02
+Newbury Park,Central,Redbridge,4,1947-12-14
+North Acton,Central,Ealing,2 & 3,1923-11-05
+North Ealing,Piccadilly[h],Ealing,3,1903-06-23
+North Greenwich,Jubilee,Greenwich,2 & 3,1999-05-14
+North Harrow,Metropolitan,Harrow,5,1915-03-22
+North Wembley,Bakerloo,Brent,4,1917-04-16
+Northfields,Piccadilly[l],Ealing,3,1908-04-16
+Northolt,Central,Ealing,5,1948-11-21
+Northwick Park,Metropolitan,Brent,4,1923-06-28
+Northwood,Metropolitan,Hillingdon,6,1887-09-01
+Northwood Hills,Metropolitan,Hillingdon,6,1933-11-13
+Notting Hill Gate,District[c],Kensington and Chelsea,1 & 2,1868-10-01
+Oakwood,Piccadilly,Enfield,5,1933-03-13
+Old Street,Northern,Islington,1,1901-11-17
+Osterley,Piccadilly[l],Hounslow,4,1883-05-01
+Oval,Northern,Lambeth,2,1890-12-18
+Oxford Circus,Central,City of Westminster,1,1900-07-30
+Paddington,Hammersmith & City[d],City of Westminster,1,1863-01-10
+Park Royal,Piccadilly,Ealing,3,1903-06-23
+Parsons Green,District,Hammersmith and Fulham,2,1880-03-01
+Perivale,Central,Ealing,4,1947-06-30
+Piccadilly Circus,Bakerloo,City of Westminster,1,1906-03-10
+Pimlico,Victoria,City of Westminster,1,1972-09-14
+Pinner,Metropolitan,Harrow,5,1885-05-25
+Plaistow,District[j],Newham,3,1902-06-02
+Preston Road,Metropolitan,Brent,4,1908-05-21
+Putney Bridge,District,Hammersmith and Fulham,2,1880-03-01
+Queen's Park,Bakerloo,Brent,2,1915-02-11
+Queensbury,Jubilee[e],Brent,4,1934-12-16
+Queensway,Central,City of Westminster,1,1900-07-30
+Ravenscourt Park,District,Hammersmith and Fulham,2,1877-06-01
+Rayners Lane,Metropolitan,Harrow,5,1906-05-26
+Redbridge,Central,Redbridge,4,1947-12-14
+Regent's Park,Bakerloo,City of Westminster,1,1906-03-10
+Richmond,District,Richmond,4,1877-06-01
+Rickmansworth,Metropolitan,Three Rivers,7,1887-09-01
+Roding Valley,Central,Epping Forest,4,1948-11-21
+Royal Oak,Hammersmith & City[m],City of Westminster,2,1871-10-30
+Ruislip,Metropolitan,Hillingdon,6,1904-07-04
+Ruislip Gardens,Central,Hillingdon,5,1948-11-29
+Ruislip Manor,Metropolitan,Hillingdon,6,1912-08-05
+Russell Square,Piccadilly,Camden,1,1906-12-15
+Seven Sisters,Victoria,Haringey,3,1968-09-01
+Shepherd's Bush,Central,Hammersmith and Fulham,2,1900-07-30
+Shepherd's Bush Market,Hammersmith & City[m],Hammersmith and Fulham,2,1864-06-13
+Sloane Square,District[i],Kensington and Chelsea,1,1868-12-24
+Snaresbrook,Central,Redbridge,4,1947-12-14
+South Ealing,Piccadilly[l],Ealing,3,1883-05-01
+South Harrow,Piccadilly[h],Harrow,5,1903-06-28
+South Kensington,District[i],Kensington and Chelsea,1,1868-12-24
+South Kenton,Bakerloo,Brent,4,1933-07-03
+South Ruislip,Central,Hillingdon,5,1948-11-23
+South Wimbledon,Northern,Merton,3 & 4,1926-09-13
+South Woodford,Central,Redbridge,4,1947-12-14
+Southfields,District,Wandsworth,3,1889-06-03
+Southgate,Piccadilly,Enfield,4,1933-03-13
+Southwark,Jubilee,Southwark,1,1999-09-24
+St. James's Park,District[i],City of Westminster,1,1868-12-24
+St. John's Wood,Jubilee[g],City of Westminster,2,1939-11-20
+St. Paul's,Central,City of London,1,1900-07-30
+Stamford Brook,District,Hammersmith and Fulham,2,1912-02-01
+Stanmore,Jubilee[e],Harrow,5,1932-12-10
+Stepney Green,District[j],Tower Hamlets,2,1902-06-23
+Stockwell,Northern,Lambeth,2,1890-12-18
+Stonebridge Park,Bakerloo,Brent,3,1917-04-16
+Stratford,Central,Newham,3,1946-12-04
+Sudbury Hill,Piccadilly[h],Ealing,4,1903-06-28
+Sudbury Town,Piccadilly[h],Brent,4,1903-06-28
+Swiss Cottage,Jubilee[g],Camden,2,1939-11-20
+Temple,District[i],City of Westminster,1,1870-05-30
+Theydon Bois,Central,Epping Forest,6,1949-09-25
+Tooting Bec,Northern,Wandsworth,3,1926-09-13
+Tooting Broadway,Northern,Wandsworth,3,1926-09-13
+Tottenham Court Road,Central,City of Westminster,1,1900-07-30
+Tottenham Hale,Victoria,Haringey,3,1968-09-01
+Totteridge & Whetstone,Northern,Barnet,4,1940-04-14
+Tower Hill,District[i],Tower Hamlets,1,1882-09-25
+Tufnell Park,Northern,Islington,2,1907-06-22
+Turnham Green,District,Hounslow,2 & 3,1877-06-01
+Turnpike Lane,Piccadilly,Haringey,3,1932-09-19
+Upminster,District,Havering,6,1902-06-02
+Upminster Bridge,District,Havering,6,1934-12-17
+Upney,District,Barking and Dagenham,4,1932-09-12
+Upton Park,District[j],Newham,3,1902-06-02
+Uxbridge,Metropolitan,Hillingdon,6,1904-07-04
+Vauxhall,Victoria,Lambeth,1 & 2,1971-07-23
+Victoria,District[i],City of Westminster,1,1868-12-24
+Walthamstow Central,Victoria,Waltham Forest,3,1968-09-01
+Wanstead,Central,Redbridge,4,1947-12-14
+Warren Street,Northern,Camden,1,1907-06-22
+Warwick Avenue,Bakerloo,City of Westminster,2,1915-01-31
+Waterloo,Waterloo & City,Lambeth,1,1906-03-10
+Watford,Metropolitan,Watford,7,1925-11-02
+Wembley Central,Bakerloo,Brent,4,1917-04-16
+Wembley Park,Metropolitan,Brent,4,1894-05-12
+West Acton,Central,Ealing,3,1923-11-05
+West Brompton,District,Kensington and Chelsea,2,1869-04-12
+West Finchley,Northern,Barnet,4,1940-04-14
+West Ham,District[j],Newham,3,1902-06-02
+West Hampstead,Jubilee[e],Camden,2,1879-06-30
+West Harrow,Metropolitan,Harrow,5,1913-11-17
+West Kensington,District,Hammersmith and Fulham,2,1874-09-09
+West Ruislip,Central,Hillingdon,6,1948-11-21
+Westbourne Park,Hammersmith & City[m],City of Westminster,2,1866-02-01
+Westminster,District[i],City of Westminster,1,1868-12-24
+White City,Central,Hammersmith and Fulham,2,1947-11-23
+Whitechapel,District[j],Tower Hamlets,2,1884-10-01
+Willesden Green,Jubilee[e],Brent,2 & 3,1879-11-24
+Willesden Junction,Bakerloo,Brent,2 & 3,1915-05-10
+Wimbledon,District,Merton,3,1889-06-03
+Wimbledon Park,District,Merton,3,1889-06-03
+Wood Green,Piccadilly,Haringey,3,1932-09-19
+Wood Lane,Hammersmith & City,Hammersmith and Fulham,2,2008-10-12
+Woodford,Central,Redbridge,4,1947-12-14
+Woodside Park,Northern,Barnet,4,1940-04-12

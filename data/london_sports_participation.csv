@@ -1,0 +1,1291 @@
+year,area_code,area,sports_participation,percentage,population
+2005-2006,A,North East,one+,0.329,687000
+2007-2008,A,North East,one+,0.348,730300
+2008-2009,A,North East,one+,0.354,748600
+2009-2010,A,North East,one+,0.358,760100
+2010-2011,A,North East,one+,0.335,719300
+2011-2012,A,North East,one+,0.36,769000
+2012-2013,A,North East,one+,0.352,752900
+2013-2014,A,North East,one+,0.34,728500
+2014-2015,A,North East,one+,0.331,711100
+2015-2016,A,North East,one+,0.327,704800
+2005-2006,B,North West,one+,0.341,1879400
+2007-2008,B,North West,one+,0.365,2026200
+2008-2009,B,North West,one+,0.366,2042800
+2009-2010,B,North West,one+,0.364,2037400
+2010-2011,B,North West,one+,0.359,2023200
+2011-2012,B,North West,one+,0.368,2107800
+2012-2013,B,North West,one+,0.365,2096400
+2013-2014,B,North West,one+,0.363,2088800
+2014-2015,B,North West,one+,0.353,2043300
+2015-2016,B,North West,one+,0.357,2073400
+2005-2006,D,Yorkshire And The Humber,one+,0.334,1362900
+2007-2008,D,Yorkshire And The Humber,one+,0.361,1518100
+2008-2009,D,Yorkshire And The Humber,one+,0.346,1469000
+2009-2010,D,Yorkshire And The Humber,one+,0.36,1543400
+2010-2011,D,Yorkshire And The Humber,one+,0.351,1519500
+2011-2012,D,Yorkshire And The Humber,one+,0.368,1580700
+2012-2013,D,Yorkshire And The Humber,one+,0.367,1580900
+2013-2014,D,Yorkshire And The Humber,one+,0.351,1514400
+2014-2015,D,Yorkshire And The Humber,one+,0.341,1478100
+2015-2016,D,Yorkshire And The Humber,one+,0.347,1514200
+2005-2006,E,East Midlands,one+,0.34,1185600
+2007-2008,E,East Midlands,one+,0.36,1289100
+2008-2009,E,East Midlands,one+,0.364,1317200
+2009-2010,E,East Midlands,one+,0.351,1276000
+2010-2011,E,East Midlands,one+,0.342,1251700
+2011-2012,E,East Midlands,one+,0.359,1328000
+2012-2013,E,East Midlands,one+,0.348,1293400
+2013-2014,E,East Midlands,one+,0.348,1302500
+2014-2015,E,East Midlands,one+,0.345,1304100
+2015-2016,E,East Midlands,one+,0.347,1319400
+2005-2006,F,West Midlands,one+,0.322,1387200
+2007-2008,F,West Midlands,one+,0.34,1473000
+2008-2009,F,West Midlands,one+,0.343,1495500
+2009-2010,F,West Midlands,one+,0.337,1473300
+2010-2011,F,West Midlands,one+,0.335,1472900
+2011-2012,F,West Midlands,one+,0.341,1538500
+2012-2013,F,West Midlands,one+,0.339,1540200
+2013-2014,F,West Midlands,one+,0.339,1544500
+2014-2015,F,West Midlands,one+,0.338,1550700
+2015-2016,F,West Midlands,one+,0.338,1560000
+2005-2006,G,East,one+,0.352,1573100
+2007-2008,G,East,one+,0.375,1718200
+2008-2009,G,East,one+,0.365,1696600
+2009-2010,G,East,one+,0.359,1678100
+2010-2011,G,East,one+,0.356,1686000
+2011-2012,G,East,one+,0.369,1754200
+2012-2013,G,East,one+,0.359,1717700
+2013-2014,G,East,one+,0.356,1710700
+2014-2015,G,East,one+,0.356,1732000
+2015-2016,G,East,one+,0.362,1776700
+2005-2006,H,London,one+,0.353,2143400
+2007-2008,H,London,one+,0.37,2258700
+2008-2009,H,London,one+,0.38,2333400
+2009-2010,H,London,one+,0.368,2300900
+2010-2011,H,London,one+,0.366,2305900
+2011-2012,H,London,one+,0.378,2485700
+2012-2013,H,London,one+,0.385,2555000
+2013-2014,H,London,one+,0.38,2545700
+2014-2015,H,London,one+,0.38,2584800
+2015-2016,H,London,one+,0.378,2607900
+2005-2006,J,South East,one+,0.371,2444700
+2007-2008,J,South East,one+,0.39,2620000
+2008-2009,J,South East,one+,0.379,2572700
+2009-2010,J,South East,one+,0.379,2588700
+2010-2011,J,South East,one+,0.368,2543700
+2011-2012,J,South East,one+,0.384,2694100
+2012-2013,J,South East,one+,0.381,2687400
+2013-2014,J,South East,one+,0.376,2665200
+2014-2015,J,South East,one+,0.377,2704700
+2015-2016,J,South East,one+,0.383,2768600
+2005-2006,K,South West,one+,0.342,1419600
+2007-2008,K,South West,one+,0.365,1552000
+2008-2009,K,South West,one+,0.37,1586700
+2009-2010,K,South West,one+,0.365,1571500
+2010-2011,K,South West,one+,0.366,1592700
+2011-2012,K,South West,one+,0.374,1632500
+2012-2013,K,South West,one+,0.368,1620000
+2013-2014,K,South West,one+,0.365,1613600
+2014-2015,K,South West,one+,0.365,1627900
+2015-2016,K,South West,one+,0.365,1641800
+2005-2006,941,England,one+,0.346,14083000
+2007-2008,941,England,one+,0.366,15185700
+2008-2009,941,England,one+,0.365,15262600
+2009-2010,941,England,one+,0.362,15229400
+2010-2011,941,England,one+,0.356,15114900
+2011-2012,941,England,one+,0.369,15890400
+2012-2013,941,England,one+,0.366,15844000
+2013-2014,941,England,one+,0.361,15713800
+2014-2015,941,England,one+,0.358,15736900
+2015-2016,941,England,one+,0.361,15966800
+2005-2006,00AA,City Of London,one+,0.29,2400
+2007-2008,00AA,City Of London,one+,,
+2008-2009,00AA,City Of London,one+,0.466,3400
+2009-2010,00AA,City Of London,one+,0.502,5400
+2010-2011,00AA,City Of London,one+,,
+2011-2012,00AA,City Of London,one+,,
+2012-2013,00AA,City Of London,one+,,
+2013-2014,00AA,City Of London,one+,0.37,2500
+2014-2015,00AA,City Of London,one+,,
+2015-2016,00AA,City Of London,one+,,
+2005-2006,00AB,Barking And Dagenham,one+,0.288,36100
+2007-2008,00AB,Barking And Dagenham,one+,0.268,33900
+2008-2009,00AB,Barking And Dagenham,one+,0.314,40000
+2009-2010,00AB,Barking And Dagenham,one+,0.263,34900
+2010-2011,00AB,Barking And Dagenham,one+,0.264,35600
+2011-2012,00AB,Barking And Dagenham,one+,0.29,40200
+2012-2013,00AB,Barking And Dagenham,one+,0.261,36500
+2013-2014,00AB,Barking And Dagenham,one+,0.228,32300
+2014-2015,00AB,Barking And Dagenham,one+,0.265,38300
+2015-2016,00AB,Barking And Dagenham,one+,0.248,36400
+2005-2006,00AC,Barnet,one+,0.372,98500
+2007-2008,00AC,Barnet,one+,0.381,100000
+2008-2009,00AC,Barnet,one+,0.364,96100
+2009-2010,00AC,Barnet,one+,0.376,103000
+2010-2011,00AC,Barnet,one+,0.362,100400
+2011-2012,00AC,Barnet,one+,0.375,106300
+2012-2013,00AC,Barnet,one+,0.391,112300
+2013-2014,00AC,Barnet,one+,0.409,118700
+2014-2015,00AC,Barnet,one+,0.377,111200
+2015-2016,00AC,Barnet,one+,0.402,120000
+2005-2006,00AD,Bexley,one+,0.32,56200
+2007-2008,00AD,Bexley,one+,0.324,57500
+2008-2009,00AD,Bexley,one+,0.35,62500
+2009-2010,00AD,Bexley,one+,0.305,55100
+2010-2011,00AD,Bexley,one+,0.368,67000
+2011-2012,00AD,Bexley,one+,0.352,65300
+2012-2013,00AD,Bexley,one+,0.349,65000
+2013-2014,00AD,Bexley,one+,0.353,66300
+2014-2015,00AD,Bexley,one+,0.332,63100
+2015-2016,00AD,Bexley,one+,0.372,71300
+2005-2006,00AE,Brent,one+,0.287,63100
+2007-2008,00AE,Brent,one+,0.327,71600
+2008-2009,00AE,Brent,one+,0.329,72200
+2009-2010,00AE,Brent,one+,0.34,69400
+2010-2011,00AE,Brent,one+,0.253,51600
+2011-2012,00AE,Brent,one+,0.324,81000
+2012-2013,00AE,Brent,one+,0.326,81600
+2013-2014,00AE,Brent,one+,0.35,87900
+2014-2015,00AE,Brent,one+,0.313,79400
+2015-2016,00AE,Brent,one+,0.321,82000
+2005-2006,00AF,Bromley,one+,0.366,88900
+2007-2008,00AF,Bromley,one+,0.375,90500
+2008-2009,00AF,Bromley,one+,0.403,97900
+2009-2010,00AF,Bromley,one+,0.379,94700
+2010-2011,00AF,Bromley,one+,0.376,94500
+2011-2012,00AF,Bromley,one+,0.383,95700
+2012-2013,00AF,Bromley,one+,0.417,105000
+2013-2014,00AF,Bromley,one+,0.34,86600
+2014-2015,00AF,Bromley,one+,0.428,110000
+2015-2016,00AF,Bromley,one+,0.424,110100
+2005-2006,00AG,Camden,one+,0.394,75000
+2007-2008,00AG,Camden,one+,0.407,79800
+2008-2009,00AG,Camden,one+,0.432,86300
+2009-2010,00AG,Camden,one+,0.413,81000
+2010-2011,00AG,Camden,one+,0.409,81600
+2011-2012,00AG,Camden,one+,0.395,73100
+2012-2013,00AG,Camden,one+,0.457,85800
+2013-2014,00AG,Camden,one+,0.45,85700
+2014-2015,00AG,Camden,one+,0.433,84200
+2015-2016,00AG,Camden,one+,0.489,97200
+2005-2006,00AH,Croydon,one+,0.34,92600
+2007-2008,00AH,Croydon,one+,0.343,92400
+2008-2009,00AH,Croydon,one+,0.329,89100
+2009-2010,00AH,Croydon,one+,0.338,91900
+2010-2011,00AH,Croydon,one+,0.339,92500
+2011-2012,00AH,Croydon,one+,0.346,98900
+2012-2013,00AH,Croydon,one+,0.368,106000
+2013-2014,00AH,Croydon,one+,0.344,99800
+2014-2015,00AH,Croydon,one+,0.343,100400
+2015-2016,00AH,Croydon,one+,0.327,96400
+2005-2006,00AJ,Ealing,one+,0.358,87500
+2007-2008,00AJ,Ealing,one+,0.368,91000
+2008-2009,00AJ,Ealing,one+,0.366,91400
+2009-2010,00AJ,Ealing,one+,0.342,87700
+2010-2011,00AJ,Ealing,one+,0.29,74300
+2011-2012,00AJ,Ealing,one+,0.388,105100
+2012-2013,00AJ,Ealing,one+,0.373,100900
+2013-2014,00AJ,Ealing,one+,0.388,104900
+2014-2015,00AJ,Ealing,one+,0.381,102500
+2015-2016,00AJ,Ealing,one+,0.389,104500
+2005-2006,00AK,Enfield,one+,0.337,75000
+2007-2008,00AK,Enfield,one+,0.332,74600
+2008-2009,00AK,Enfield,one+,0.363,82100
+2009-2010,00AK,Enfield,one+,0.288,65900
+2010-2011,00AK,Enfield,one+,0.321,73900
+2011-2012,00AK,Enfield,one+,0.364,88800
+2012-2013,00AK,Enfield,one+,0.324,79500
+2013-2014,00AK,Enfield,one+,0.358,88700
+2014-2015,00AK,Enfield,one+,0.37,92900
+2015-2016,00AK,Enfield,one+,0.299,75700
+2005-2006,00AL,Greenwich,one+,0.32,58200
+2007-2008,00AL,Greenwich,one+,0.35,61700
+2008-2009,00AL,Greenwich,one+,0.386,67800
+2009-2010,00AL,Greenwich,one+,0.317,56500
+2010-2011,00AL,Greenwich,one+,0.319,57200
+2011-2012,00AL,Greenwich,one+,0.365,73100
+2012-2013,00AL,Greenwich,one+,0.334,68000
+2013-2014,00AL,Greenwich,one+,0.339,69800
+2014-2015,00AL,Greenwich,one+,0.322,67500
+2015-2016,00AL,Greenwich,one+,0.359,76800
+2005-2006,00AM,Hackney,one+,0.323,52000
+2007-2008,00AM,Hackney,one+,0.332,54300
+2008-2009,00AM,Hackney,one+,0.329,54600
+2009-2010,00AM,Hackney,one+,0.37,62600
+2010-2011,00AM,Hackney,one+,0.39,66700
+2011-2012,00AM,Hackney,one+,0.379,74400
+2012-2013,00AM,Hackney,one+,0.389,77700
+2013-2014,00AM,Hackney,one+,0.374,76000
+2014-2015,00AM,Hackney,one+,0.364,75900
+2015-2016,00AM,Hackney,one+,0.399,84900
+2005-2006,00AN,Hammersmith And Fulham,one+,0.42,63600
+2007-2008,00AN,Hammersmith And Fulham,one+,0.424,61300
+2008-2009,00AN,Hammersmith And Fulham,one+,0.471,67800
+2009-2010,00AN,Hammersmith And Fulham,one+,0.449,63500
+2010-2011,00AN,Hammersmith And Fulham,one+,0.451,63400
+2011-2012,00AN,Hammersmith And Fulham,one+,0.473,72300
+2012-2013,00AN,Hammersmith And Fulham,one+,0.442,66200
+2013-2014,00AN,Hammersmith And Fulham,one+,0.467,69100
+2014-2015,00AN,Hammersmith And Fulham,one+,0.421,62000
+2015-2016,00AN,Hammersmith And Fulham,one+,0.427,63000
+2005-2006,00AP,Haringey,one+,0.357,64400
+2007-2008,00AP,Haringey,one+,0.375,67900
+2008-2009,00AP,Haringey,one+,0.362,65800
+2009-2010,00AP,Haringey,one+,0.378,68500
+2010-2011,00AP,Haringey,one+,0.365,65800
+2011-2012,00AP,Haringey,one+,0.383,78000
+2012-2013,00AP,Haringey,one+,0.383,79000
+2013-2014,00AP,Haringey,one+,0.429,90100
+2014-2015,00AP,Haringey,one+,0.371,79200
+2015-2016,00AP,Haringey,one+,0.444,96600
+2005-2006,00AQ,Harrow,one+,0.323,55700
+2007-2008,00AQ,Harrow,one+,0.297,51200
+2008-2009,00AQ,Harrow,one+,0.326,56600
+2009-2010,00AQ,Harrow,one+,0.338,62300
+2010-2011,00AQ,Harrow,one+,0.352,65300
+2011-2012,00AQ,Harrow,one+,0.348,66900
+2012-2013,00AQ,Harrow,one+,0.354,68400
+2013-2014,00AQ,Harrow,one+,0.327,63200
+2014-2015,00AQ,Harrow,one+,0.364,71100
+2015-2016,00AQ,Harrow,one+,0.355,69500
+2005-2006,00AR,Havering,one+,0.314,57500
+2007-2008,00AR,Havering,one+,0.357,66100
+2008-2009,00AR,Havering,one+,0.36,67200
+2009-2010,00AR,Havering,one+,0.324,61500
+2010-2011,00AR,Havering,one+,0.315,60400
+2011-2012,00AR,Havering,one+,0.331,64100
+2012-2013,00AR,Havering,one+,0.329,64100
+2013-2014,00AR,Havering,one+,0.322,63000
+2014-2015,00AR,Havering,one+,0.371,73700
+2015-2016,00AR,Havering,one+,0.362,72500
+2005-2006,00AS,Hillingdon,one+,0.347,69900
+2007-2008,00AS,Hillingdon,one+,0.362,72100
+2008-2009,00AS,Hillingdon,one+,0.398,80100
+2009-2010,00AS,Hillingdon,one+,0.337,70400
+2010-2011,00AS,Hillingdon,one+,0.29,61300
+2011-2012,00AS,Hillingdon,one+,0.325,71000
+2012-2013,00AS,Hillingdon,one+,0.426,94700
+2013-2014,00AS,Hillingdon,one+,0.33,74500
+2014-2015,00AS,Hillingdon,one+,0.299,68800
+2015-2016,00AS,Hillingdon,one+,0.295,68800
+2005-2006,00AT,Hounslow,one+,0.331,56500
+2007-2008,00AT,Hounslow,one+,0.339,60200
+2008-2009,00AT,Hounslow,one+,0.368,65700
+2009-2010,00AT,Hounslow,one+,0.321,60600
+2010-2011,00AT,Hounslow,one+,0.348,66100
+2011-2012,00AT,Hounslow,one+,0.399,81200
+2012-2013,00AT,Hounslow,one+,0.328,67400
+2013-2014,00AT,Hounslow,one+,0.428,88800
+2014-2015,00AT,Hounslow,one+,0.373,78200
+2015-2016,00AT,Hounslow,one+,0.36,76000
+2005-2006,00AU,Islington,one+,0.342,52100
+2007-2008,00AU,Islington,one+,0.381,60100
+2008-2009,00AU,Islington,one+,0.429,68800
+2009-2010,00AU,Islington,one+,0.408,65900
+2010-2011,00AU,Islington,one+,0.374,60900
+2011-2012,00AU,Islington,one+,0.442,76800
+2012-2013,00AU,Islington,one+,0.431,76300
+2013-2014,00AU,Islington,one+,0.452,81600
+2014-2015,00AU,Islington,one+,0.444,82300
+2015-2016,00AU,Islington,one+,0.392,74900
+2005-2006,00AW,Kensington And Chelsea,one+,0.442,74200
+2007-2008,00AW,Kensington And Chelsea,one+,0.458,69100
+2008-2009,00AW,Kensington And Chelsea,one+,0.461,70300
+2009-2010,00AW,Kensington And Chelsea,one+,0.479,68300
+2010-2011,00AW,Kensington And Chelsea,one+,0.433,61300
+2011-2012,00AW,Kensington And Chelsea,one+,0.455,61000
+2012-2013,00AW,Kensington And Chelsea,one+,0.442,57900
+2013-2014,00AW,Kensington And Chelsea,one+,0.401,52300
+2014-2015,00AW,Kensington And Chelsea,one+,0.437,57100
+2015-2016,00AW,Kensington And Chelsea,one+,0.49,64500
+2005-2006,00AX,Kingston Upon Thames,one+,0.415,52000
+2007-2008,00AX,Kingston Upon Thames,one+,0.382,49400
+2008-2009,00AX,Kingston Upon Thames,one+,0.437,57300
+2009-2010,00AX,Kingston Upon Thames,one+,0.423,57900
+2010-2011,00AX,Kingston Upon Thames,one+,0.443,61300
+2011-2012,00AX,Kingston Upon Thames,one+,0.401,52200
+2012-2013,00AX,Kingston Upon Thames,one+,0.418,55400
+2013-2014,00AX,Kingston Upon Thames,one+,0.421,56500
+2014-2015,00AX,Kingston Upon Thames,one+,0.409,55900
+2015-2016,00AX,Kingston Upon Thames,one+,0.451,62700
+2005-2006,00AY,Lambeth,one+,0.383,84400
+2007-2008,00AY,Lambeth,one+,0.393,88200
+2008-2009,00AY,Lambeth,one+,0.426,96300
+2009-2010,00AY,Lambeth,one+,0.42,98600
+2010-2011,00AY,Lambeth,one+,0.471,110400
+2011-2012,00AY,Lambeth,one+,0.397,99100
+2012-2013,00AY,Lambeth,one+,0.425,108100
+2013-2014,00AY,Lambeth,one+,0.454,116800
+2014-2015,00AY,Lambeth,one+,0.453,118500
+2015-2016,00AY,Lambeth,one+,0.442,117700
+2005-2006,00AZ,Lewisham,one+,0.33,65300
+2007-2008,00AZ,Lewisham,one+,0.384,79700
+2008-2009,00AZ,Lewisham,one+,0.347,72900
+2009-2010,00AZ,Lewisham,one+,0.343,72600
+2010-2011,00AZ,Lewisham,one+,0.346,73600
+2011-2012,00AZ,Lewisham,one+,0.349,76700
+2012-2013,00AZ,Lewisham,one+,0.374,83400
+2013-2014,00AZ,Lewisham,one+,0.322,72900
+2014-2015,00AZ,Lewisham,one+,0.37,85500
+2015-2016,00AZ,Lewisham,one+,0.358,84300
+2005-2006,00BA,Merton,one+,0.389,61900
+2007-2008,00BA,Merton,one+,0.393,64000
+2008-2009,00BA,Merton,one+,0.407,67000
+2009-2010,00BA,Merton,one+,0.418,70500
+2010-2011,00BA,Merton,one+,0.356,60400
+2011-2012,00BA,Merton,one+,0.351,56800
+2012-2013,00BA,Merton,one+,0.429,69500
+2013-2014,00BA,Merton,one+,0.394,63800
+2014-2015,00BA,Merton,one+,0.442,71500
+2015-2016,00BA,Merton,one+,0.403,65200
+2005-2006,00BB,Newham,one+,0.266,49600
+2007-2008,00BB,Newham,one+,0.297,56600
+2008-2009,00BB,Newham,one+,0.29,55000
+2009-2010,00BB,Newham,one+,0.26,47200
+2010-2011,00BB,Newham,one+,0.292,52400
+2011-2012,00BB,Newham,one+,0.276,66400
+2012-2013,00BB,Newham,one+,0.3,72800
+2013-2014,00BB,Newham,one+,0.283,69100
+2014-2015,00BB,Newham,one+,0.297,74000
+2015-2016,00BB,Newham,one+,0.327,83700
+2005-2006,00BC,Redbridge,one+,0.347,68900
+2007-2008,00BC,Redbridge,one+,0.397,79200
+2008-2009,00BC,Redbridge,one+,0.348,70100
+2009-2010,00BC,Redbridge,one+,0.318,66900
+2010-2011,00BC,Redbridge,one+,0.335,71000
+2011-2012,00BC,Redbridge,one+,0.353,77100
+2012-2013,00BC,Redbridge,one+,0.395,87000
+2013-2014,00BC,Redbridge,one+,0.379,84200
+2014-2015,00BC,Redbridge,one+,0.349,78800
+2015-2016,00BC,Redbridge,one+,0.361,82400
+2005-2006,00BD,Richmond Upon Thames,one+,0.457,69500
+2007-2008,00BD,Richmond Upon Thames,one+,0.446,64500
+2008-2009,00BD,Richmond Upon Thames,one+,0.456,65800
+2009-2010,00BD,Richmond Upon Thames,one+,0.471,71600
+2010-2011,00BD,Richmond Upon Thames,one+,0.493,75400
+2011-2012,00BD,Richmond Upon Thames,one+,0.458,69000
+2012-2013,00BD,Richmond Upon Thames,one+,0.508,76700
+2013-2014,00BD,Richmond Upon Thames,one+,0.513,77800
+2014-2015,00BD,Richmond Upon Thames,one+,0.509,78100
+2015-2016,00BD,Richmond Upon Thames,one+,0.465,71600
+2005-2006,00BE,Southwark,one+,0.321,67100
+2007-2008,00BE,Southwark,one+,0.343,77200
+2008-2009,00BE,Southwark,one+,0.381,87100
+2009-2010,00BE,Southwark,one+,0.353,83300
+2010-2011,00BE,Southwark,one+,0.404,95600
+2011-2012,00BE,Southwark,one+,0.384,90500
+2012-2013,00BE,Southwark,one+,0.386,92200
+2013-2014,00BE,Southwark,one+,0.393,95200
+2014-2015,00BE,Southwark,one+,0.341,83800
+2015-2016,00BE,Southwark,one+,0.345,86500
+2005-2006,00BF,Sutton,one+,0.354,50200
+2007-2008,00BF,Sutton,one+,0.418,62200
+2008-2009,00BF,Sutton,one+,0.388,58200
+2009-2010,00BF,Sutton,one+,0.381,58700
+2010-2011,00BF,Sutton,one+,0.39,60600
+2011-2012,00BF,Sutton,one+,0.366,55900
+2012-2013,00BF,Sutton,one+,0.393,60700
+2013-2014,00BF,Sutton,one+,0.35,54500
+2014-2015,00BF,Sutton,one+,0.373,58700
+2015-2016,00BF,Sutton,one+,0.353,55800
+2005-2006,00BG,Tower Hamlets,one+,0.328,55400
+2007-2008,00BG,Tower Hamlets,one+,0.351,60200
+2008-2009,00BG,Tower Hamlets,one+,0.35,61700
+2009-2010,00BG,Tower Hamlets,one+,0.385,72800
+2010-2011,00BG,Tower Hamlets,one+,0.381,72700
+2011-2012,00BG,Tower Hamlets,one+,0.37,76200
+2012-2013,00BG,Tower Hamlets,one+,0.389,81900
+2013-2014,00BG,Tower Hamlets,one+,0.373,81000
+2014-2015,00BG,Tower Hamlets,one+,0.377,85300
+2015-2016,00BG,Tower Hamlets,one+,0.41,96600
+2005-2006,00BH,Waltham Forest,one+,0.316,56100
+2007-2008,00BH,Waltham Forest,one+,0.344,60200
+2008-2009,00BH,Waltham Forest,one+,0.356,62500
+2009-2010,00BH,Waltham Forest,one+,0.322,56500
+2010-2011,00BH,Waltham Forest,one+,0.363,64200
+2011-2012,00BH,Waltham Forest,one+,0.399,81600
+2012-2013,00BH,Waltham Forest,one+,0.37,76000
+2013-2014,00BH,Waltham Forest,one+,0.383,79500
+2014-2015,00BH,Waltham Forest,one+,0.366,76700
+2015-2016,00BH,Waltham Forest,one+,0.383,81000
+2005-2006,00BJ,Wandsworth,one+,0.419,99900
+2007-2008,00BJ,Wandsworth,one+,0.484,115100
+2008-2009,00BJ,Wandsworth,one+,0.452,108000
+2009-2010,00BJ,Wandsworth,one+,0.502,120600
+2010-2011,00BJ,Wandsworth,one+,0.456,110000
+2011-2012,00BJ,Wandsworth,one+,0.445,114200
+2012-2013,00BJ,Wandsworth,one+,0.442,113000
+2013-2014,00BJ,Wandsworth,one+,0.419,107300
+2014-2015,00BJ,Wandsworth,one+,0.511,131100
+2015-2016,00BJ,Wandsworth,one+,0.41,105600
+2005-2006,00BK,Westminster,one+,0.393,83900
+2007-2008,00BK,Westminster,one+,0.405,82400
+2008-2009,00BK,Westminster,one+,0.411,84400
+2009-2010,00BK,Westminster,one+,0.433,94400
+2010-2011,00BK,Westminster,one+,0.433,95200
+2011-2012,00BK,Westminster,one+,0.459,85800
+2012-2013,00BK,Westminster,one+,0.435,82300
+2013-2014,00BK,Westminster,one+,0.444,84700
+2014-2015,00BK,Westminster,one+,0.44,86200
+2015-2016,00BK,Westminster,one+,0.356,72200
+2005-2006,A,North East,three+,0.153,320300
+2007-2008,A,North East,three+,0.166,348300
+2008-2009,A,North East,three+,0.167,352800
+2009-2010,A,North East,three+,0.167,354600
+2010-2011,A,North East,three+,0.166,357200
+2011-2012,A,North East,three+,0.185,394400
+2012-2013,A,North East,three+,0.185,395600
+2013-2014,A,North East,three+,0.175,375000
+2014-2015,A,North East,three+,0.173,372700
+2015-2016,A,North East,three+,0.166,357400
+2005-2006,B,North West,three+,0.157,865000
+2007-2008,B,North West,three+,0.173,961500
+2008-2009,B,North West,three+,0.175,977700
+2009-2010,B,North West,three+,0.181,1015800
+2010-2011,B,North West,three+,0.176,989900
+2011-2012,B,North West,three+,0.183,1046400
+2012-2013,B,North West,three+,0.183,1052700
+2013-2014,B,North West,three+,0.181,1040400
+2014-2015,B,North West,three+,0.175,1009700
+2015-2016,B,North West,three+,0.183,1059600
+2005-2006,D,Yorkshire,three+,0.15,613100
+2007-2008,D,Yorkshire,three+,0.176,740100
+2008-2009,D,Yorkshire,three+,0.17,722800
+2009-2010,D,Yorkshire,three+,0.169,722400
+2010-2011,D,Yorkshire,three+,0.177,764800
+2011-2012,D,Yorkshire,three+,0.18,773100
+2012-2013,D,Yorkshire,three+,0.182,786500
+2013-2014,D,Yorkshire,three+,0.183,787600
+2014-2015,D,Yorkshire,three+,0.173,750600
+2015-2016,D,Yorkshire,three+,0.165,720800
+2005-2006,E,East Midlands,three+,0.15,522300
+2007-2008,E,East Midlands,three+,0.171,614400
+2008-2009,E,East Midlands,three+,0.17,615300
+2009-2010,E,East Midlands,three+,0.163,592400
+2010-2011,E,East Midlands,three+,0.158,580200
+2011-2012,E,East Midlands,three+,0.173,640700
+2012-2013,E,East Midlands,three+,0.163,607700
+2013-2014,E,East Midlands,three+,0.171,639900
+2014-2015,E,East Midlands,three+,0.171,643900
+2015-2016,E,East Midlands,three+,0.165,627800
+2005-2006,F,West Midlands,three+,0.143,614900
+2007-2008,F,West Midlands,three+,0.148,639500
+2008-2009,F,West Midlands,three+,0.156,681700
+2009-2010,F,West Midlands,three+,0.159,696800
+2010-2011,F,West Midlands,three+,0.153,672900
+2011-2012,F,West Midlands,three+,0.161,727900
+2012-2013,F,West Midlands,three+,0.165,750500
+2013-2014,F,West Midlands,three+,0.166,753800
+2014-2015,F,West Midlands,three+,0.174,800500
+2015-2016,F,West Midlands,three+,0.159,733100
+2005-2006,G,East,three+,0.153,683200
+2007-2008,G,East,three+,0.167,764100
+2008-2009,G,East,three+,0.163,758200
+2009-2010,G,East,three+,0.161,754300
+2010-2011,G,East,three+,0.163,770900
+2011-2012,G,East,three+,0.169,801400
+2012-2013,G,East,three+,0.169,809600
+2013-2014,G,East,three+,0.168,809100
+2014-2015,G,East,three+,0.169,823100
+2015-2016,G,East,three+,0.169,830800
+2005-2006,H,London,three+,0.165,1005600
+2007-2008,H,London,three+,0.172,1046700
+2008-2009,H,London,three+,0.179,1100100
+2009-2010,H,London,three+,0.174,1088800
+2010-2011,H,London,three+,0.169,1065800
+2011-2012,H,London,three+,0.184,1207600
+2012-2013,H,London,three+,0.19,1264100
+2013-2014,H,London,three+,0.181,1209200
+2014-2015,H,London,three+,0.185,1257500
+2015-2016,H,London,three+,0.18,1237700
+2005-2006,J,South East,three+,0.166,1093600
+2007-2008,J,South East,three+,0.176,1182100
+2008-2009,J,South East,three+,0.177,1199800
+2009-2010,J,South East,three+,0.173,1183300
+2010-2011,J,South East,three+,0.171,1185000
+2011-2012,J,South East,three+,0.185,1299600
+2012-2013,J,South East,three+,0.183,1293400
+2013-2014,J,South East,three+,0.184,1304100
+2014-2015,J,South East,three+,0.18,1288700
+2015-2016,J,South East,three+,0.19,1372700
+2005-2006,K,South West,three+,0.155,643200
+2007-2008,K,South West,three+,0.164,699600
+2008-2009,K,South West,three+,0.169,722700
+2009-2010,K,South West,three+,0.17,733500
+2010-2011,K,South West,three+,0.169,736600
+2011-2012,K,South West,three+,0.171,748000
+2012-2013,K,South West,three+,0.181,797000
+2013-2014,K,South West,three+,0.184,811400
+2014-2015,K,South West,three+,0.176,786400
+2015-2016,K,South West,three+,0.177,797600
+2005-2006,941,England,three+,0.156,6361000
+2007-2008,941,England,three+,0.169,6996300
+2008-2009,941,England,three+,0.171,7131200
+2009-2010,941,England,three+,0.17,7141900
+2010-2011,941,England,three+,0.168,7123300
+2011-2012,941,England,three+,0.177,7638900
+2012-2013,941,England,three+,0.179,7757300
+2013-2014,941,England,three+,0.178,7730500
+2014-2015,941,England,three+,0.176,7733100
+2015-2016,941,England,three+,0.175,7737400
+2005-2006,00AA,City Of London,three+,,
+2007-2008,00AA,City Of London,three+,,
+2008-2009,00AA,City Of London,three+,,
+2009-2010,00AA,City Of London,three+,,
+2010-2011,00AA,City Of London,three+,,
+2011-2012,00AA,City Of London,three+,,
+2012-2013,00AA,City Of London,three+,,
+2013-2014,00AA,City Of London,three+,,
+2014-2015,00AA,City Of London,three+,,
+2015-2016,00AA,City Of London,three+,,
+2005-2006,00AB,Barking And Dagenham,three+,0.118,14800
+2007-2008,00AB,Barking And Dagenham,three+,0.134,17000
+2008-2009,00AB,Barking And Dagenham,three+,0.162,20600
+2009-2010,00AB,Barking And Dagenham,three+,0.126,16700
+2010-2011,00AB,Barking And Dagenham,three+,0.128,17200
+2011-2012,00AB,Barking And Dagenham,three+,0.131,18100
+2012-2013,00AB,Barking And Dagenham,three+,0.135,18900
+2013-2014,00AB,Barking And Dagenham,three+,0.119,16800
+2014-2015,00AB,Barking And Dagenham,three+,0.141,20400
+2015-2016,00AB,Barking And Dagenham,three+,0.138,20300
+2005-2006,00AC,Barnet,three+,0.157,41500
+2007-2008,00AC,Barnet,three+,0.182,47700
+2008-2009,00AC,Barnet,three+,0.17,44900
+2009-2010,00AC,Barnet,three+,0.188,51600
+2010-2011,00AC,Barnet,three+,0.148,41000
+2011-2012,00AC,Barnet,three+,0.175,49700
+2012-2013,00AC,Barnet,three+,0.184,52900
+2013-2014,00AC,Barnet,three+,0.162,47000
+2014-2015,00AC,Barnet,three+,0.181,53400
+2015-2016,00AC,Barnet,three+,0.177,53000
+2005-2006,00AD,Bexley,three+,0.16,28200
+2007-2008,00AD,Bexley,three+,0.127,22500
+2008-2009,00AD,Bexley,three+,0.152,27100
+2009-2010,00AD,Bexley,three+,0.135,24400
+2010-2011,00AD,Bexley,three+,0.179,32500
+2011-2012,00AD,Bexley,three+,0.14,26000
+2012-2013,00AD,Bexley,three+,0.184,34300
+2013-2014,00AD,Bexley,three+,0.174,32500
+2014-2015,00AD,Bexley,three+,0.147,28000
+2015-2016,00AD,Bexley,three+,0.199,38200
+2005-2006,00AE,Brent,three+,0.138,30300
+2007-2008,00AE,Brent,three+,0.155,34100
+2008-2009,00AE,Brent,three+,0.131,28700
+2009-2010,00AE,Brent,three+,0.138,28100
+2010-2011,00AE,Brent,three+,0.146,29800
+2011-2012,00AE,Brent,three+,0.184,45900
+2012-2013,00AE,Brent,three+,0.145,36300
+2013-2014,00AE,Brent,three+,0.191,48100
+2014-2015,00AE,Brent,three+,0.124,31500
+2015-2016,00AE,Brent,three+,0.152,39000
+2005-2006,00AF,Bromley,three+,0.155,37800
+2007-2008,00AF,Bromley,three+,0.186,45000
+2008-2009,00AF,Bromley,three+,0.171,41600
+2009-2010,00AF,Bromley,three+,0.161,40200
+2010-2011,00AF,Bromley,three+,0.203,50900
+2011-2012,00AF,Bromley,three+,0.166,41600
+2012-2013,00AF,Bromley,three+,0.187,47200
+2013-2014,00AF,Bromley,three+,0.151,38400
+2014-2015,00AF,Bromley,three+,0.213,54700
+2015-2016,00AF,Bromley,three+,0.188,48900
+2005-2006,00AG,Camden,three+,0.18,34300
+2007-2008,00AG,Camden,three+,0.183,35900
+2008-2009,00AG,Camden,three+,0.226,45200
+2009-2010,00AG,Camden,three+,0.188,36800
+2010-2011,00AG,Camden,three+,0.172,34300
+2011-2012,00AG,Camden,three+,0.183,33800
+2012-2013,00AG,Camden,three+,0.233,43800
+2013-2014,00AG,Camden,three+,0.224,42600
+2014-2015,00AG,Camden,three+,0.228,44300
+2015-2016,00AG,Camden,three+,0.247,49100
+2005-2006,00AH,Croydon,three+,0.15,40900
+2007-2008,00AH,Croydon,three+,0.156,41900
+2008-2009,00AH,Croydon,three+,0.142,38500
+2009-2010,00AH,Croydon,three+,0.135,36700
+2010-2011,00AH,Croydon,three+,0.147,40200
+2011-2012,00AH,Croydon,three+,0.196,56000
+2012-2013,00AH,Croydon,three+,0.174,50100
+2013-2014,00AH,Croydon,three+,0.124,36000
+2014-2015,00AH,Croydon,three+,0.176,51600
+2015-2016,00AH,Croydon,three+,0.094,27800
+2005-2006,00AJ,Ealing,three+,0.168,41100
+2007-2008,00AJ,Ealing,three+,0.187,46400
+2008-2009,00AJ,Ealing,three+,0.177,44300
+2009-2010,00AJ,Ealing,three+,0.159,40800
+2010-2011,00AJ,Ealing,three+,0.129,33200
+2011-2012,00AJ,Ealing,three+,0.165,44600
+2012-2013,00AJ,Ealing,three+,0.208,56300
+2013-2014,00AJ,Ealing,three+,0.202,54500
+2014-2015,00AJ,Ealing,three+,0.154,41400
+2015-2016,00AJ,Ealing,three+,0.194,52100
+2005-2006,00AK,Enfield,three+,0.168,37300
+2007-2008,00AK,Enfield,three+,0.128,28700
+2008-2009,00AK,Enfield,three+,0.153,34500
+2009-2010,00AK,Enfield,three+,0.136,31100
+2010-2011,00AK,Enfield,three+,0.111,25600
+2011-2012,00AK,Enfield,three+,0.152,37100
+2012-2013,00AK,Enfield,three+,0.146,35800
+2013-2014,00AK,Enfield,three+,0.156,38500
+2014-2015,00AK,Enfield,three+,0.161,40300
+2015-2016,00AK,Enfield,three+,0.132,33300
+2005-2006,00AL,Greenwich,three+,0.165,30000
+2007-2008,00AL,Greenwich,three+,0.167,29400
+2008-2009,00AL,Greenwich,three+,0.229,40300
+2009-2010,00AL,Greenwich,three+,0.168,29900
+2010-2011,00AL,Greenwich,three+,0.132,23700
+2011-2012,00AL,Greenwich,three+,0.154,30800
+2012-2013,00AL,Greenwich,three+,0.151,30800
+2013-2014,00AL,Greenwich,three+,0.159,32600
+2014-2015,00AL,Greenwich,three+,0.154,32200
+2015-2016,00AL,Greenwich,three+,0.176,37600
+2005-2006,00AM,Hackney,three+,0.152,24500
+2007-2008,00AM,Hackney,three+,0.158,25800
+2008-2009,00AM,Hackney,three+,0.171,28400
+2009-2010,00AM,Hackney,three+,0.185,31400
+2010-2011,00AM,Hackney,three+,0.18,30800
+2011-2012,00AM,Hackney,three+,0.207,40700
+2012-2013,00AM,Hackney,three+,0.179,35700
+2013-2014,00AM,Hackney,three+,0.194,39400
+2014-2015,00AM,Hackney,three+,0.179,37300
+2015-2016,00AM,Hackney,three+,0.181,38400
+2005-2006,00AN,Hammersmith And Fulham,three+,0.209,31700
+2007-2008,00AN,Hammersmith And Fulham,three+,0.209,30200
+2008-2009,00AN,Hammersmith And Fulham,three+,0.247,35500
+2009-2010,00AN,Hammersmith And Fulham,three+,0.239,33700
+2010-2011,00AN,Hammersmith And Fulham,three+,0.199,27900
+2011-2012,00AN,Hammersmith And Fulham,three+,0.197,30100
+2012-2013,00AN,Hammersmith And Fulham,three+,0.273,40900
+2013-2014,00AN,Hammersmith And Fulham,three+,0.254,37500
+2014-2015,00AN,Hammersmith And Fulham,three+,0.24,35300
+2015-2016,00AN,Hammersmith And Fulham,three+,0.204,30200
+2005-2006,00AP,Haringey,three+,0.177,32000
+2007-2008,00AP,Haringey,three+,0.169,30600
+2008-2009,00AP,Haringey,three+,0.177,32300
+2009-2010,00AP,Haringey,three+,0.179,32500
+2010-2011,00AP,Haringey,three+,0.181,32700
+2011-2012,00AP,Haringey,three+,0.176,35900
+2012-2013,00AP,Haringey,three+,0.18,37000
+2013-2014,00AP,Haringey,three+,0.195,40900
+2014-2015,00AP,Haringey,three+,0.228,48700
+2015-2016,00AP,Haringey,three+,0.23,50100
+2005-2006,00AQ,Harrow,three+,0.141,24200
+2007-2008,00AQ,Harrow,three+,0.124,21300
+2008-2009,00AQ,Harrow,three+,0.145,25100
+2009-2010,00AQ,Harrow,three+,0.176,32400
+2010-2011,00AQ,Harrow,three+,0.174,32300
+2011-2012,00AQ,Harrow,three+,0.158,30400
+2012-2013,00AQ,Harrow,three+,0.144,27900
+2013-2014,00AQ,Harrow,three+,0.147,28500
+2014-2015,00AQ,Harrow,three+,0.171,33500
+2015-2016,00AQ,Harrow,three+,0.168,32800
+2005-2006,00AR,Havering,three+,0.15,27400
+2007-2008,00AR,Havering,three+,0.142,26200
+2008-2009,00AR,Havering,three+,0.169,31600
+2009-2010,00AR,Havering,three+,0.157,29900
+2010-2011,00AR,Havering,three+,0.157,30100
+2011-2012,00AR,Havering,three+,0.168,32500
+2012-2013,00AR,Havering,three+,0.175,34100
+2013-2014,00AR,Havering,three+,0.158,30900
+2014-2015,00AR,Havering,three+,0.167,33200
+2015-2016,00AR,Havering,three+,0.152,30400
+2005-2006,00AS,Hillingdon,three+,0.16,32200
+2007-2008,00AS,Hillingdon,three+,0.18,35900
+2008-2009,00AS,Hillingdon,three+,0.168,33900
+2009-2010,00AS,Hillingdon,three+,0.148,31000
+2010-2011,00AS,Hillingdon,three+,0.108,22900
+2011-2012,00AS,Hillingdon,three+,0.157,34400
+2012-2013,00AS,Hillingdon,three+,0.213,47300
+2013-2014,00AS,Hillingdon,three+,0.171,38500
+2014-2015,00AS,Hillingdon,three+,0.134,30800
+2015-2016,00AS,Hillingdon,three+,0.124,28900
+2005-2006,00AT,Hounslow,three+,0.164,28100
+2007-2008,00AT,Hounslow,three+,0.149,26500
+2008-2009,00AT,Hounslow,three+,0.179,31900
+2009-2010,00AT,Hounslow,three+,0.152,28700
+2010-2011,00AT,Hounslow,three+,0.188,35800
+2011-2012,00AT,Hounslow,three+,0.204,41600
+2012-2013,00AT,Hounslow,three+,0.164,33600
+2013-2014,00AT,Hounslow,three+,0.203,42000
+2014-2015,00AT,Hounslow,three+,0.202,42300
+2015-2016,00AT,Hounslow,three+,0.17,36000
+2005-2006,00AU,Islington,three+,0.161,24600
+2007-2008,00AU,Islington,three+,0.197,31000
+2008-2009,00AU,Islington,three+,0.201,32200
+2009-2010,00AU,Islington,three+,0.214,34500
+2010-2011,00AU,Islington,three+,0.173,28200
+2011-2012,00AU,Islington,three+,0.207,36000
+2012-2013,00AU,Islington,three+,0.235,41700
+2013-2014,00AU,Islington,three+,0.196,35400
+2014-2015,00AU,Islington,three+,0.221,40900
+2015-2016,00AU,Islington,three+,0.193,36900
+2005-2006,00AW,Kensington And Chelsea,three+,0.218,36600
+2007-2008,00AW,Kensington And Chelsea,three+,0.243,36600
+2008-2009,00AW,Kensington And Chelsea,three+,0.207,31500
+2009-2010,00AW,Kensington And Chelsea,three+,0.257,36700
+2010-2011,00AW,Kensington And Chelsea,three+,0.204,29000
+2011-2012,00AW,Kensington And Chelsea,three+,0.285,38200
+2012-2013,00AW,Kensington And Chelsea,three+,0.252,33100
+2013-2014,00AW,Kensington And Chelsea,three+,0.2,26000
+2014-2015,00AW,Kensington And Chelsea,three+,0.251,32800
+2015-2016,00AW,Kensington And Chelsea,three+,0.29,38200
+2005-2006,00AX,Kingston Upon Thames,three+,0.184,23100
+2007-2008,00AX,Kingston Upon Thames,three+,0.161,20800
+2008-2009,00AX,Kingston Upon Thames,three+,0.232,30400
+2009-2010,00AX,Kingston Upon Thames,three+,0.212,29000
+2010-2011,00AX,Kingston Upon Thames,three+,0.212,29300
+2011-2012,00AX,Kingston Upon Thames,three+,0.206,26800
+2012-2013,00AX,Kingston Upon Thames,three+,0.195,25800
+2013-2014,00AX,Kingston Upon Thames,three+,0.21,28200
+2014-2015,00AX,Kingston Upon Thames,three+,0.181,24700
+2015-2016,00AX,Kingston Upon Thames,three+,0.229,31900
+2005-2006,00AY,Lambeth,three+,0.18,39700
+2007-2008,00AY,Lambeth,three+,0.212,47500
+2008-2009,00AY,Lambeth,three+,0.189,42800
+2009-2010,00AY,Lambeth,three+,0.153,35800
+2010-2011,00AY,Lambeth,three+,0.233,54700
+2011-2012,00AY,Lambeth,three+,0.203,50800
+2012-2013,00AY,Lambeth,three+,0.231,58700
+2013-2014,00AY,Lambeth,three+,0.248,63800
+2014-2015,00AY,Lambeth,three+,0.216,56500
+2015-2016,00AY,Lambeth,three+,0.214,57100
+2005-2006,00AZ,Lewisham,three+,0.165,32700
+2007-2008,00AZ,Lewisham,three+,0.153,31700
+2008-2009,00AZ,Lewisham,three+,0.161,33800
+2009-2010,00AZ,Lewisham,three+,0.148,31300
+2010-2011,00AZ,Lewisham,three+,0.155,32900
+2011-2012,00AZ,Lewisham,three+,0.182,40000
+2012-2013,00AZ,Lewisham,three+,0.144,32000
+2013-2014,00AZ,Lewisham,three+,0.131,29500
+2014-2015,00AZ,Lewisham,three+,0.159,36600
+2015-2016,00AZ,Lewisham,three+,0.183,43100
+2005-2006,00BA,Merton,three+,0.172,27400
+2007-2008,00BA,Merton,three+,0.184,30000
+2008-2009,00BA,Merton,three+,0.197,32400
+2009-2010,00BA,Merton,three+,0.215,36200
+2010-2011,00BA,Merton,three+,0.141,23900
+2011-2012,00BA,Merton,three+,0.161,26000
+2012-2013,00BA,Merton,three+,0.226,36600
+2013-2014,00BA,Merton,three+,0.186,30200
+2014-2015,00BA,Merton,three+,0.241,39000
+2015-2016,00BA,Merton,three+,0.213,34500
+2005-2006,00BB,Newham,three+,0.125,23400
+2007-2008,00BB,Newham,three+,0.13,24700
+2008-2009,00BB,Newham,three+,0.129,24500
+2009-2010,00BB,Newham,three+,0.134,24300
+2010-2011,00BB,Newham,three+,0.125,22400
+2011-2012,00BB,Newham,three+,0.149,35800
+2012-2013,00BB,Newham,three+,0.169,41000
+2013-2014,00BB,Newham,three+,0.152,37100
+2014-2015,00BB,Newham,three+,0.14,34900
+2015-2016,00BB,Newham,three+,0.163,41700
+2005-2006,00BC,Redbridge,three+,0.166,33100
+2007-2008,00BC,Redbridge,three+,0.18,35900
+2008-2009,00BC,Redbridge,three+,0.164,33100
+2009-2010,00BC,Redbridge,three+,0.156,32800
+2010-2011,00BC,Redbridge,three+,0.166,35000
+2011-2012,00BC,Redbridge,three+,0.175,38300
+2012-2013,00BC,Redbridge,three+,0.168,36900
+2013-2014,00BC,Redbridge,three+,0.198,44000
+2014-2015,00BC,Redbridge,three+,0.181,40900
+2015-2016,00BC,Redbridge,three+,0.145,33100
+2005-2006,00BD,Richmond Upon Thames,three+,0.216,32900
+2007-2008,00BD,Richmond Upon Thames,three+,0.222,32100
+2008-2009,00BD,Richmond Upon Thames,three+,0.22,31700
+2009-2010,00BD,Richmond Upon Thames,three+,0.221,33700
+2010-2011,00BD,Richmond Upon Thames,three+,0.251,38400
+2011-2012,00BD,Richmond Upon Thames,three+,0.244,36700
+2012-2013,00BD,Richmond Upon Thames,three+,0.266,40100
+2013-2014,00BD,Richmond Upon Thames,three+,0.225,34100
+2014-2015,00BD,Richmond Upon Thames,three+,0.25,38300
+2015-2016,00BD,Richmond Upon Thames,three+,0.22,33800
+2005-2006,00BE,Southwark,three+,0.133,27700
+2007-2008,00BE,Southwark,three+,0.167,37500
+2008-2009,00BE,Southwark,three+,0.196,44800
+2009-2010,00BE,Southwark,three+,0.167,39400
+2010-2011,00BE,Southwark,three+,0.179,42200
+2011-2012,00BE,Southwark,three+,0.193,45500
+2012-2013,00BE,Southwark,three+,0.191,45600
+2013-2014,00BE,Southwark,three+,0.166,40300
+2014-2015,00BE,Southwark,three+,0.156,38300
+2015-2016,00BE,Southwark,three+,0.167,41900
+2005-2006,00BF,Sutton,three+,0.151,21400
+2007-2008,00BF,Sutton,three+,0.15,22400
+2008-2009,00BF,Sutton,three+,0.174,26100
+2009-2010,00BF,Sutton,three+,0.164,25200
+2010-2011,00BF,Sutton,three+,0.198,30700
+2011-2012,00BF,Sutton,three+,0.154,23600
+2012-2013,00BF,Sutton,three+,0.191,29600
+2013-2014,00BF,Sutton,three+,0.148,23000
+2014-2015,00BF,Sutton,three+,0.181,28500
+2015-2016,00BF,Sutton,three+,0.172,27300
+2005-2006,00BG,Tower Hamlets,three+,0.169,28600
+2007-2008,00BG,Tower Hamlets,three+,0.156,26700
+2008-2009,00BG,Tower Hamlets,three+,0.144,25400
+2009-2010,00BG,Tower Hamlets,three+,0.184,34900
+2010-2011,00BG,Tower Hamlets,three+,0.162,30800
+2011-2012,00BG,Tower Hamlets,three+,0.167,34400
+2012-2013,00BG,Tower Hamlets,three+,0.185,38800
+2013-2014,00BG,Tower Hamlets,three+,0.2,43400
+2014-2015,00BG,Tower Hamlets,three+,0.174,39400
+2015-2016,00BG,Tower Hamlets,three+,0.239,56200
+2005-2006,00BH,Waltham Forest,three+,0.144,25600
+2007-2008,00BH,Waltham Forest,three+,0.162,28300
+2008-2009,00BH,Waltham Forest,three+,0.177,31000
+2009-2010,00BH,Waltham Forest,three+,0.166,29200
+2010-2011,00BH,Waltham Forest,three+,0.173,30500
+2011-2012,00BH,Waltham Forest,three+,0.176,36100
+2012-2013,00BH,Waltham Forest,three+,0.171,35200
+2013-2014,00BH,Waltham Forest,three+,0.155,32100
+2014-2015,00BH,Waltham Forest,three+,0.145,30400
+2015-2016,00BH,Waltham Forest,three+,0.14,29500
+2005-2006,00BJ,Wandsworth,three+,0.208,49500
+2007-2008,00BJ,Wandsworth,three+,0.252,60000
+2008-2009,00BJ,Wandsworth,three+,0.204,48800
+2009-2010,00BJ,Wandsworth,three+,0.236,56800
+2010-2011,00BJ,Wandsworth,three+,0.213,51300
+2011-2012,00BJ,Wandsworth,three+,0.239,61300
+2012-2013,00BJ,Wandsworth,three+,0.233,59600
+2013-2014,00BJ,Wandsworth,three+,0.213,54400
+2014-2015,00BJ,Wandsworth,three+,0.282,72400
+2015-2016,00BJ,Wandsworth,three+,0.213,54900
+2005-2006,00BK,Westminster,three+,0.195,41600
+2007-2008,00BK,Westminster,three+,0.166,33800
+2008-2009,00BK,Westminster,three+,0.217,44500
+2009-2010,00BK,Westminster,three+,0.23,50100
+2010-2011,00BK,Westminster,three+,0.196,43100
+2011-2012,00BK,Westminster,three+,0.237,44300
+2012-2013,00BK,Westminster,three+,0.234,44300
+2013-2014,00BK,Westminster,three+,0.218,41400
+2014-2015,00BK,Westminster,three+,0.224,43900
+2015-2016,00BK,Westminster,three+,0.149,30200
+2005-2006,A,North East,zero,0.574,1195300
+2007-2008,A,North East,zero,0.547,1148200
+2008-2009,A,North East,zero,0.546,1155300
+2009-2010,A,North East,zero,0.54,1148400
+2010-2011,A,North East,zero,0.545,1171400
+2011-2012,A,North East,zero,0.522,1115300
+2012-2013,A,North East,zero,0.546,1168300
+2013-2014,A,North East,zero,0.558,1201100
+2014-2015,A,North East,zero,0.573,1236600
+2015-2016,A,North East,zero,0.581,1257600
+2005-2006,B,North West,zero,0.56,3079500
+2007-2008,B,North West,zero,0.526,2920500
+2008-2009,B,North West,zero,0.532,2967700
+2009-2010,B,North West,zero,0.532,2980600
+2010-2011,B,North West,zero,0.527,2970500
+2011-2012,B,North West,zero,0.522,2994000
+2012-2013,B,North West,zero,0.532,3061700
+2013-2014,B,North West,zero,0.536,3096800
+2014-2015,B,North West,zero,0.547,3170300
+2015-2016,B,North West,zero,0.551,3211400
+2005-2006,D,Yorkshire And The Humber,zero,0.561,2285200
+2007-2008,D,Yorkshire And The Humber,zero,0.527,2216200
+2008-2009,D,Yorkshire And The Humber,zero,0.545,2313100
+2009-2010,D,Yorkshire And The Humber,zero,0.529,2270000
+2010-2011,D,Yorkshire And The Humber,zero,0.53,2296100
+2011-2012,D,Yorkshire And The Humber,zero,0.528,2265300
+2012-2013,D,Yorkshire And The Humber,zero,0.526,2269400
+2013-2014,D,Yorkshire And The Humber,zero,0.543,2356700
+2014-2015,D,Yorkshire And The Humber,zero,0.559,2434300
+2015-2016,D,Yorkshire And The Humber,zero,0.556,2436500
+2005-2006,E,East Midlands,zero,0.552,1922600
+2007-2008,E,East Midlands,zero,0.521,1868700
+2008-2009,E,East Midlands,zero,0.528,1908900
+2009-2010,E,East Midlands,zero,0.536,1948700
+2010-2011,E,East Midlands,zero,0.531,1947200
+2011-2012,E,East Midlands,zero,0.522,1932000
+2012-2013,E,East Midlands,zero,0.539,2008500
+2013-2014,E,East Midlands,zero,0.539,2024200
+2014-2015,E,East Midlands,zero,0.554,2098000
+2015-2016,E,East Midlands,zero,0.55,2103700
+2005-2006,F,West Midlands,zero,0.573,2458100
+2007-2008,F,West Midlands,zero,0.541,2341700
+2008-2009,F,West Midlands,zero,0.554,2414300
+2009-2010,F,West Midlands,zero,0.555,2432000
+2010-2011,F,West Midlands,zero,0.538,2368900
+2011-2012,F,West Midlands,zero,0.541,2442700
+2012-2013,F,West Midlands,zero,0.555,2521800
+2013-2014,F,West Midlands,zero,0.556,2543000
+2014-2015,F,West Midlands,zero,0.563,2592900
+2015-2016,F,West Midlands,zero,0.565,2620400
+2005-2006,G,East,zero,0.53,2365400
+2007-2008,G,East,zero,0.501,2293700
+2008-2009,G,East,zero,0.518,2404900
+2009-2010,G,East,zero,0.522,2440000
+2010-2011,G,East,zero,0.506,2393000
+2011-2012,G,East,zero,0.507,2411300
+2012-2013,G,East,zero,0.517,2476800
+2013-2014,G,East,zero,0.522,2524500
+2014-2015,G,East,zero,0.541,2639100
+2015-2016,G,East,zero,0.523,2577600
+2005-2006,H,London,zero,0.53,3214200
+2007-2008,H,London,zero,0.498,3037500
+2008-2009,H,London,zero,0.502,3083200
+2009-2010,H,London,zero,0.507,3168500
+2010-2011,H,London,zero,0.501,3153800
+2011-2012,H,London,zero,0.495,3256800
+2012-2013,H,London,zero,0.491,3264400
+2013-2014,H,London,zero,0.501,3371800
+2014-2015,H,London,zero,0.516,3514900
+2015-2016,H,London,zero,0.507,3509200
+2005-2006,J,South East,zero,0.512,3364600
+2007-2008,J,South East,zero,0.479,3218800
+2008-2009,J,South East,zero,0.5,3393100
+2009-2010,J,South East,zero,0.506,3459100
+2010-2011,J,South East,zero,0.495,3424300
+2011-2012,J,South East,zero,0.489,3426900
+2012-2013,J,South East,zero,0.5,3529800
+2013-2014,J,South East,zero,0.504,3591400
+2014-2015,J,South East,zero,0.507,3649400
+2015-2016,J,South East,zero,0.503,3653000
+2005-2006,K,South West,zero,0.54,2232900
+2007-2008,K,South West,zero,0.508,2163800
+2008-2009,K,South West,zero,0.513,2199600
+2009-2010,K,South West,zero,0.522,2248200
+2010-2011,K,South West,zero,0.497,2160200
+2011-2012,K,South West,zero,0.5,2186100
+2012-2013,K,South West,zero,0.512,2257200
+2013-2014,K,South West,zero,0.516,2292500
+2014-2015,K,South West,zero,0.524,2347700
+2015-2016,K,South West,zero,0.527,2384300
+2005-2006,941,England,zero,0.543,22117900
+2007-2008,941,England,zero,0.512,21209000
+2008-2009,941,England,zero,0.523,21840000
+2009-2010,941,England,zero,0.525,22095500
+2010-2011,941,England,zero,0.515,21885300
+2011-2012,941,England,zero,0.511,22030400
+2012-2013,941,England,zero,0.52,22557800
+2013-2014,941,England,zero,0.526,23001900
+2014-2015,941,England,zero,0.538,23683100
+2015-2016,941,England,zero,0.534,23753700
+2005-2006,00AA,City Of London,zero,0.479,4000
+2007-2008,00AA,City Of London,zero,,
+2008-2009,00AA,City Of London,zero,0.435,3100
+2009-2010,00AA,City Of London,zero,0.456,4900
+2010-2011,00AA,City Of London,zero,0.594,6400
+2011-2012,00AA,City Of London,zero,0.485,3300
+2012-2013,00AA,City Of London,zero,0.42,2900
+2013-2014,00AA,City Of London,zero,0.392,2700
+2014-2015,00AA,City Of London,zero,0.535,3900
+2015-2016,00AA,City Of London,zero,0.619,4800
+2005-2006,00AB,Barking And Dagenham,zero,0.615,77100
+2007-2008,00AB,Barking And Dagenham,zero,0.634,80200
+2008-2009,00AB,Barking And Dagenham,zero,0.583,74300
+2009-2010,00AB,Barking And Dagenham,zero,0.609,80500
+2010-2011,00AB,Barking And Dagenham,zero,0.611,82500
+2011-2012,00AB,Barking And Dagenham,zero,0.579,80200
+2012-2013,00AB,Barking And Dagenham,zero,0.608,85200
+2013-2014,00AB,Barking And Dagenham,zero,0.657,93400
+2014-2015,00AB,Barking And Dagenham,zero,0.636,92200
+2015-2016,00AB,Barking And Dagenham,zero,0.67,98800
+2005-2006,00AC,Barnet,zero,0.527,139000
+2007-2008,00AC,Barnet,zero,0.441,115700
+2008-2009,00AC,Barnet,zero,0.516,135900
+2009-2010,00AC,Barnet,zero,0.501,137100
+2010-2011,00AC,Barnet,zero,0.492,136400
+2011-2012,00AC,Barnet,zero,0.486,137500
+2012-2013,00AC,Barnet,zero,0.494,142000
+2013-2014,00AC,Barnet,zero,0.45,131500
+2014-2015,00AC,Barnet,zero,0.556,164700
+2015-2016,00AC,Barnet,zero,0.493,147900
+2005-2006,00AD,Bexley,zero,0.554,97000
+2007-2008,00AD,Bexley,zero,0.56,99400
+2008-2009,00AD,Bexley,zero,0.513,91400
+2009-2010,00AD,Bexley,zero,0.574,103600
+2010-2011,00AD,Bexley,zero,0.51,92900
+2011-2012,00AD,Bexley,zero,0.525,97200
+2012-2013,00AD,Bexley,zero,0.518,96600
+2013-2014,00AD,Bexley,zero,0.582,109700
+2014-2015,00AD,Bexley,zero,0.579,110400
+2015-2016,00AD,Bexley,zero,0.542,104500
+2005-2006,00AE,Brent,zero,0.599,131300
+2007-2008,00AE,Brent,zero,0.541,118500
+2008-2009,00AE,Brent,zero,0.536,117600
+2009-2010,00AE,Brent,zero,0.539,110000
+2010-2011,00AE,Brent,zero,0.612,124600
+2011-2012,00AE,Brent,zero,0.557,138900
+2012-2013,00AE,Brent,zero,0.554,138800
+2013-2014,00AE,Brent,zero,0.53,134000
+2014-2015,00AE,Brent,zero,0.606,154200
+2015-2016,00AE,Brent,zero,0.572,146800
+2005-2006,00AF,Bromley,zero,0.521,126100
+2007-2008,00AF,Bromley,zero,0.505,121800
+2008-2009,00AF,Bromley,zero,0.456,110700
+2009-2010,00AF,Bromley,zero,0.488,121600
+2010-2011,00AF,Bromley,zero,0.477,119900
+2011-2012,00AF,Bromley,zero,0.483,120600
+2012-2013,00AF,Bromley,zero,0.455,114600
+2013-2014,00AF,Bromley,zero,0.52,133100
+2014-2015,00AF,Bromley,zero,0.455,117400
+2015-2016,00AF,Bromley,zero,0.474,123600
+2005-2006,00AG,Camden,zero,0.461,87600
+2007-2008,00AG,Camden,zero,0.435,85300
+2008-2009,00AG,Camden,zero,0.443,88500
+2009-2010,00AG,Camden,zero,0.47,91900
+2010-2011,00AG,Camden,zero,0.434,86600
+2011-2012,00AG,Camden,zero,0.448,82700
+2012-2013,00AG,Camden,zero,0.41,77100
+2013-2014,00AG,Camden,zero,0.394,75400
+2014-2015,00AG,Camden,zero,0.444,86600
+2015-2016,00AG,Camden,zero,0.357,71400
+2005-2006,00AH,Croydon,zero,0.554,150400
+2007-2008,00AH,Croydon,zero,0.52,140000
+2008-2009,00AH,Croydon,zero,0.542,146800
+2009-2010,00AH,Croydon,zero,0.537,145800
+2010-2011,00AH,Croydon,zero,0.51,139200
+2011-2012,00AH,Croydon,zero,0.543,154900
+2012-2013,00AH,Croydon,zero,0.515,148600
+2013-2014,00AH,Croydon,zero,0.517,150900
+2014-2015,00AH,Croydon,zero,0.531,156000
+2015-2016,00AH,Croydon,zero,0.5,148100
+2005-2006,00AJ,Ealing,zero,0.508,123900
+2007-2008,00AJ,Ealing,zero,0.515,127400
+2008-2009,00AJ,Ealing,zero,0.532,133000
+2009-2010,00AJ,Ealing,zero,0.537,137600
+2010-2011,00AJ,Ealing,zero,0.562,144400
+2011-2012,00AJ,Ealing,zero,0.507,136800
+2012-2013,00AJ,Ealing,zero,0.498,134800
+2013-2014,00AJ,Ealing,zero,0.47,127700
+2014-2015,00AJ,Ealing,zero,0.522,140800
+2015-2016,00AJ,Ealing,zero,0.514,138900
+2005-2006,00AK,Enfield,zero,0.569,126000
+2007-2008,00AK,Enfield,zero,0.537,120600
+2008-2009,00AK,Enfield,zero,0.536,121000
+2009-2010,00AK,Enfield,zero,0.554,126400
+2010-2011,00AK,Enfield,zero,0.542,124900
+2011-2012,00AK,Enfield,zero,0.509,124000
+2012-2013,00AK,Enfield,zero,0.558,137100
+2013-2014,00AK,Enfield,zero,0.536,133400
+2014-2015,00AK,Enfield,zero,0.552,138800
+2015-2016,00AK,Enfield,zero,0.6,152500
+2005-2006,00AL,Greenwich,zero,0.572,103800
+2007-2008,00AL,Greenwich,zero,0.528,93200
+2008-2009,00AL,Greenwich,zero,0.517,91000
+2009-2010,00AL,Greenwich,zero,0.544,96900
+2010-2011,00AL,Greenwich,zero,0.532,95400
+2011-2012,00AL,Greenwich,zero,0.519,103600
+2012-2013,00AL,Greenwich,zero,0.522,106200
+2013-2014,00AL,Greenwich,zero,0.537,111000
+2014-2015,00AL,Greenwich,zero,0.568,119300
+2015-2016,00AL,Greenwich,zero,0.493,106000
+2005-2006,00AM,Hackney,zero,0.552,88900
+2007-2008,00AM,Hackney,zero,0.528,86300
+2008-2009,00AM,Hackney,zero,0.539,89400
+2009-2010,00AM,Hackney,zero,0.519,87800
+2010-2011,00AM,Hackney,zero,0.456,78100
+2011-2012,00AM,Hackney,zero,0.496,97200
+2012-2013,00AM,Hackney,zero,0.482,96300
+2013-2014,00AM,Hackney,zero,0.528,107800
+2014-2015,00AM,Hackney,zero,0.493,103000
+2015-2016,00AM,Hackney,zero,0.502,107400
+2005-2006,00AN,Hammersmith And Fulham,zero,0.451,68200
+2007-2008,00AN,Hammersmith And Fulham,zero,0.471,68100
+2008-2009,00AN,Hammersmith And Fulham,zero,0.394,56700
+2009-2010,00AN,Hammersmith And Fulham,zero,0.442,62300
+2010-2011,00AN,Hammersmith And Fulham,zero,0.451,63400
+2011-2012,00AN,Hammersmith And Fulham,zero,0.434,66200
+2012-2013,00AN,Hammersmith And Fulham,zero,0.442,66300
+2013-2014,00AN,Hammersmith And Fulham,zero,0.386,57400
+2014-2015,00AN,Hammersmith And Fulham,zero,0.483,71200
+2015-2016,00AN,Hammersmith And Fulham,zero,0.438,65100
+2005-2006,00AP,Haringey,zero,0.531,95800
+2007-2008,00AP,Haringey,zero,0.499,90300
+2008-2009,00AP,Haringey,zero,0.532,96800
+2009-2010,00AP,Haringey,zero,0.51,92400
+2010-2011,00AP,Haringey,zero,0.484,87200
+2011-2012,00AP,Haringey,zero,0.509,103600
+2012-2013,00AP,Haringey,zero,0.486,100500
+2013-2014,00AP,Haringey,zero,0.46,97100
+2014-2015,00AP,Haringey,zero,0.489,104800
+2015-2016,00AP,Haringey,zero,0.453,99200
+2005-2006,00AQ,Harrow,zero,0.564,97000
+2007-2008,00AQ,Harrow,zero,0.555,95700
+2008-2009,00AQ,Harrow,zero,0.533,92600
+2009-2010,00AQ,Harrow,zero,0.535,98600
+2010-2011,00AQ,Harrow,zero,0.505,93600
+2011-2012,00AQ,Harrow,zero,0.508,97500
+2012-2013,00AQ,Harrow,zero,0.51,98800
+2013-2014,00AQ,Harrow,zero,0.582,113200
+2014-2015,00AQ,Harrow,zero,0.538,105500
+2015-2016,00AQ,Harrow,zero,0.573,112900
+2005-2006,00AR,Havering,zero,0.566,103200
+2007-2008,00AR,Havering,zero,0.539,99700
+2008-2009,00AR,Havering,zero,0.543,101200
+2009-2010,00AR,Havering,zero,0.543,103200
+2010-2011,00AR,Havering,zero,0.553,105900
+2011-2012,00AR,Havering,zero,0.561,108500
+2012-2013,00AR,Havering,zero,0.559,108800
+2013-2014,00AR,Havering,zero,0.555,109200
+2014-2015,00AR,Havering,zero,0.538,107000
+2015-2016,00AR,Havering,zero,0.543,109400
+2005-2006,00AS,Hillingdon,zero,0.539,108400
+2007-2008,00AS,Hillingdon,zero,0.505,100800
+2008-2009,00AS,Hillingdon,zero,0.477,96000
+2009-2010,00AS,Hillingdon,zero,0.541,113000
+2010-2011,00AS,Hillingdon,zero,0.586,124000
+2011-2012,00AS,Hillingdon,zero,0.523,114100
+2012-2013,00AS,Hillingdon,zero,0.489,109000
+2013-2014,00AS,Hillingdon,zero,0.561,127100
+2014-2015,00AS,Hillingdon,zero,0.616,142300
+2015-2016,00AS,Hillingdon,zero,0.58,136100
+2005-2006,00AT,Hounslow,zero,0.552,94000
+2007-2008,00AT,Hounslow,zero,0.498,88400
+2008-2009,00AT,Hounslow,zero,0.528,94300
+2009-2010,00AT,Hounslow,zero,0.559,105500
+2010-2011,00AT,Hounslow,zero,0.535,101700
+2011-2012,00AT,Hounslow,zero,0.486,98700
+2012-2013,00AT,Hounslow,zero,0.526,108200
+2013-2014,00AT,Hounslow,zero,0.448,93400
+2014-2015,00AT,Hounslow,zero,0.541,113700
+2015-2016,00AT,Hounslow,zero,0.542,115200
+2005-2006,00AU,Islington,zero,0.526,79900
+2007-2008,00AU,Islington,zero,0.483,76100
+2008-2009,00AU,Islington,zero,0.443,71000
+2009-2010,00AU,Islington,zero,0.471,76000
+2010-2011,00AU,Islington,zero,0.462,75300
+2011-2012,00AU,Islington,zero,0.442,76700
+2012-2013,00AU,Islington,zero,0.391,69300
+2013-2014,00AU,Islington,zero,0.395,71700
+2014-2015,00AU,Islington,zero,0.437,81300
+2015-2016,00AU,Islington,zero,0.456,87400
+2005-2006,00AW,Kensington And Chelsea,zero,0.445,74500
+2007-2008,00AW,Kensington And Chelsea,zero,0.401,60500
+2008-2009,00AW,Kensington And Chelsea,zero,0.42,64000
+2009-2010,00AW,Kensington And Chelsea,zero,0.414,59000
+2010-2011,00AW,Kensington And Chelsea,zero,0.444,62900
+2011-2012,00AW,Kensington And Chelsea,zero,0.424,56600
+2012-2013,00AW,Kensington And Chelsea,zero,0.44,57800
+2013-2014,00AW,Kensington And Chelsea,zero,0.507,66400
+2014-2015,00AW,Kensington And Chelsea,zero,0.465,60900
+2015-2016,00AW,Kensington And Chelsea,zero,0.428,56600
+2005-2006,00AX,Kingston Upon Thames,zero,0.473,59200
+2007-2008,00AX,Kingston Upon Thames,zero,0.45,58100
+2008-2009,00AX,Kingston Upon Thames,zero,0.429,56200
+2009-2010,00AX,Kingston Upon Thames,zero,0.436,59600
+2010-2011,00AX,Kingston Upon Thames,zero,0.418,57800
+2011-2012,00AX,Kingston Upon Thames,zero,0.484,62800
+2012-2013,00AX,Kingston Upon Thames,zero,0.44,58400
+2013-2014,00AX,Kingston Upon Thames,zero,0.49,66100
+2014-2015,00AX,Kingston Upon Thames,zero,0.481,65800
+2015-2016,00AX,Kingston Upon Thames,zero,0.435,60800
+2005-2006,00AY,Lambeth,zero,0.492,108100
+2007-2008,00AY,Lambeth,zero,0.467,104900
+2008-2009,00AY,Lambeth,zero,0.438,98900
+2009-2010,00AY,Lambeth,zero,0.455,106500
+2010-2011,00AY,Lambeth,zero,0.422,99000
+2011-2012,00AY,Lambeth,zero,0.436,108700
+2012-2013,00AY,Lambeth,zero,0.449,114400
+2013-2014,00AY,Lambeth,zero,0.423,109400
+2014-2015,00AY,Lambeth,zero,0.448,117400
+2015-2016,00AY,Lambeth,zero,0.443,118800
+2005-2006,00AZ,Lewisham,zero,0.541,106600
+2007-2008,00AZ,Lewisham,zero,0.474,98400
+2008-2009,00AZ,Lewisham,zero,0.535,112200
+2009-2010,00AZ,Lewisham,zero,0.494,104600
+2010-2011,00AZ,Lewisham,zero,0.551,117100
+2011-2012,00AZ,Lewisham,zero,0.491,107800
+2012-2013,00AZ,Lewisham,zero,0.472,105400
+2013-2014,00AZ,Lewisham,zero,0.558,126700
+2014-2015,00AZ,Lewisham,zero,0.546,126400
+2015-2016,00AZ,Lewisham,zero,0.52,123000
+2005-2006,00BA,Merton,zero,0.504,79900
+2007-2008,00BA,Merton,zero,0.488,79400
+2008-2009,00BA,Merton,zero,0.469,77000
+2009-2010,00BA,Merton,zero,0.499,84100
+2010-2011,00BA,Merton,zero,0.522,88700
+2011-2012,00BA,Merton,zero,0.513,82700
+2012-2013,00BA,Merton,zero,0.447,72400
+2013-2014,00BA,Merton,zero,0.477,77600
+2014-2015,00BA,Merton,zero,0.456,74000
+2015-2016,00BA,Merton,zero,0.475,77400
+2005-2006,00BB,Newham,zero,0.633,118000
+2007-2008,00BB,Newham,zero,0.6,114500
+2008-2009,00BB,Newham,zero,0.588,111600
+2009-2010,00BB,Newham,zero,0.614,111300
+2010-2011,00BB,Newham,zero,0.589,105900
+2011-2012,00BB,Newham,zero,0.604,145100
+2012-2013,00BB,Newham,zero,0.625,151500
+2013-2014,00BB,Newham,zero,0.606,148900
+2014-2015,00BB,Newham,zero,0.624,156000
+2015-2016,00BB,Newham,zero,0.593,152800
+2005-2006,00BC,Redbridge,zero,0.54,106900
+2007-2008,00BC,Redbridge,zero,0.508,101300
+2008-2009,00BC,Redbridge,zero,0.544,109600
+2009-2010,00BC,Redbridge,zero,0.538,113000
+2010-2011,00BC,Redbridge,zero,0.569,120400
+2011-2012,00BC,Redbridge,zero,0.544,118400
+2012-2013,00BC,Redbridge,zero,0.49,107900
+2013-2014,00BC,Redbridge,zero,0.497,111000
+2014-2015,00BC,Redbridge,zero,0.533,120800
+2015-2016,00BC,Redbridge,zero,0.54,124200
+2005-2006,00BD,Richmond Upon Thames,zero,0.418,63300
+2007-2008,00BD,Richmond Upon Thames,zero,0.426,61600
+2008-2009,00BD,Richmond Upon Thames,zero,0.43,62100
+2009-2010,00BD,Richmond Upon Thames,zero,0.428,65100
+2010-2011,00BD,Richmond Upon Thames,zero,0.389,59600
+2011-2012,00BD,Richmond Upon Thames,zero,0.365,54800
+2012-2013,00BD,Richmond Upon Thames,zero,0.368,55600
+2013-2014,00BD,Richmond Upon Thames,zero,0.366,55800
+2014-2015,00BD,Richmond Upon Thames,zero,0.372,57200
+2015-2016,00BD,Richmond Upon Thames,zero,0.418,64800
+2005-2006,00BE,Southwark,zero,0.561,117000
+2007-2008,00BE,Southwark,zero,0.515,116100
+2008-2009,00BE,Southwark,zero,0.481,109800
+2009-2010,00BE,Southwark,zero,0.484,114000
+2010-2011,00BE,Southwark,zero,0.494,117000
+2011-2012,00BE,Southwark,zero,0.459,107800
+2012-2013,00BE,Southwark,zero,0.493,117800
+2013-2014,00BE,Southwark,zero,0.52,126700
+2014-2015,00BE,Southwark,zero,0.527,130000
+2015-2016,00BE,Southwark,zero,0.545,137500
+2005-2006,00BF,Sutton,zero,0.53,74900
+2007-2008,00BF,Sutton,zero,0.441,65600
+2008-2009,00BF,Sutton,zero,0.523,78500
+2009-2010,00BF,Sutton,zero,0.49,75400
+2010-2011,00BF,Sutton,zero,0.435,67600
+2011-2012,00BF,Sutton,zero,0.524,80000
+2012-2013,00BF,Sutton,zero,0.481,74400
+2013-2014,00BF,Sutton,zero,0.539,84300
+2014-2015,00BF,Sutton,zero,0.538,85100
+2015-2016,00BF,Sutton,zero,0.521,82900
+2005-2006,00BG,Tower Hamlets,zero,0.56,94300
+2007-2008,00BG,Tower Hamlets,zero,0.524,89700
+2008-2009,00BG,Tower Hamlets,zero,0.55,97000
+2009-2010,00BG,Tower Hamlets,zero,0.508,95900
+2010-2011,00BG,Tower Hamlets,zero,0.496,94500
+2011-2012,00BG,Tower Hamlets,zero,0.517,106200
+2012-2013,00BG,Tower Hamlets,zero,0.512,107900
+2013-2014,00BG,Tower Hamlets,zero,0.505,110200
+2014-2015,00BG,Tower Hamlets,zero,0.524,119000
+2015-2016,00BG,Tower Hamlets,zero,0.495,117000
+2005-2006,00BH,Waltham Forest,zero,0.571,101300
+2007-2008,00BH,Waltham Forest,zero,0.56,98100
+2008-2009,00BH,Waltham Forest,zero,0.565,99000
+2009-2010,00BH,Waltham Forest,zero,0.56,98300
+2010-2011,00BH,Waltham Forest,zero,0.498,88200
+2011-2012,00BH,Waltham Forest,zero,0.486,99300
+2012-2013,00BH,Waltham Forest,zero,0.537,110600
+2013-2014,00BH,Waltham Forest,zero,0.514,107100
+2014-2015,00BH,Waltham Forest,zero,0.544,114100
+2015-2016,00BH,Waltham Forest,zero,0.501,106600
+2005-2006,00BJ,Wandsworth,zero,0.443,105400
+2007-2008,00BJ,Wandsworth,zero,0.365,86900
+2008-2009,00BJ,Wandsworth,zero,0.44,105200
+2009-2010,00BJ,Wandsworth,zero,0.39,93500
+2010-2011,00BJ,Wandsworth,zero,0.398,96000
+2011-2012,00BJ,Wandsworth,zero,0.455,116500
+2012-2013,00BJ,Wandsworth,zero,0.402,102900
+2013-2014,00BJ,Wandsworth,zero,0.432,111200
+2014-2015,00BJ,Wandsworth,zero,0.335,86200
+2015-2016,00BJ,Wandsworth,zero,0.462,119800
+2005-2006,00BK,Westminster,zero,0.482,102500
+2007-2008,00BK,Westminster,zero,0.457,93000
+2008-2009,00BK,Westminster,zero,0.45,92400
+2009-2010,00BK,Westminster,zero,0.428,93000
+2010-2011,00BK,Westminster,zero,0.44,96700
+2011-2012,00BK,Westminster,zero,0.42,78400
+2012-2013,00BK,Westminster,zero,0.457,86600
+2013-2014,00BK,Westminster,zero,0.476,91100
+2014-2015,00BK,Westminster,zero,0.455,89400
+2015-2016,00BK,Westminster,zero,0.441,90100

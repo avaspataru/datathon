@@ -17,8 +17,6 @@ museum_names = []
 museum_ids = []
 current_museum = -1
 
-# lalalalalla
-
 # dict [ (musum id,year num,month num) ] = number of visitors
 dict = {}
 

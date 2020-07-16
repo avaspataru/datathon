@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-file_name = "./museums.xlsx"
+file_name = "../data/museums.xlsx"
 dfs = pd.read_excel(file_name, sheet_name="Monthly")
 
 month_names = ["April","May","June","July","August","September","October","November","December","January","February","March"]
@@ -40,16 +40,22 @@ for (i,r) in dfs.iterrows():
                  continue
             dict[key] = int(r[j])
 
+i = 0
+for m in museum_names:
+    print(i,m)
+    i += 1
+
+indx = 13
 
 to_plot_2012 = []
 to_plot_2011 = []
 to_plot_2013 = []
 for m in range(1,13):
-    k = (0,8,m)
+    k = (indx,8,m)
     to_plot_2012.append(dict[k])
-    k = (0,7,m)
+    k = (indx,7,m)
     to_plot_2011.append(dict[k])
-    k = (0,9,m)
+    k = (indx,9,m)
     to_plot_2013.append(dict[k])
 
 
@@ -57,6 +63,6 @@ plt.plot(range(1,13), to_plot_2012, label ="2012")
 plt.plot(range(1,13), to_plot_2011, label = "2011")
 plt.plot(range(1,13), to_plot_2013, label = "2013")
 plt.xticks(np.arange(1,13,1), ordered_month_names, rotation=90)
-plt.title("British museum visits by month and year")
+plt.title("V&A Museum of Childhood visits by month and year")
 plt.legend()
 plt.show()

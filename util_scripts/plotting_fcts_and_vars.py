@@ -36,6 +36,9 @@ YEAR_XLABEL = 'Year'
 
 PLOTS_DIR = '../plots'
 
+GROWTH_MULTIPLIER = 'Growth Multiplier'
+
+POINT_CHANGE = 'Point Change'
 
 # -----------------------------------------------------------------------------
 # Plotting functions
@@ -148,7 +151,7 @@ def plot_all_stations(data, col, see_stations):
     #plt.show()
 
 
-def plot_stations_percentage_changes(data, col, highlight_stations, see_stations):
+def plot_stations_changes(data, col, highlight_stations, see_stations):
     """
     TODO: complete docstring
     """

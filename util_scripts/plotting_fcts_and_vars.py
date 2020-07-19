@@ -34,6 +34,11 @@ types = ["Bus", "Underground", "DLR", "Tram", "Overground", "Emirates Airline", 
 FIGSIZE = (10, 6)
 YEAR_XLABEL = 'Year'
 
+PLOTS_DIR = '../plots'
+
+GROWTH_MULTIPLIER = 'Growth Multiplier'
+
+POINT_CHANGE = 'Point Change'
 
 # -----------------------------------------------------------------------------
 # Plotting functions
@@ -46,6 +51,7 @@ def plot_boroughs(data):
             Area code, Area name, 2001, 2002, ..., 2016, 2017
     """
     plt.figure(figsize=FIGSIZE)
+    plt.grid()
 
     plt.xlabel(YEAR_XLABEL)
     plt.xticks(np.arange(0,18),years, rotation=90)
@@ -59,7 +65,7 @@ def plot_boroughs(data):
         plt.plot(borough_by_year, label=borough)
 
     plt.legend()
-    plt.show()
+    #plt.show()
 
 
 def plot_all_boroughs(data):
@@ -72,6 +78,7 @@ def plot_all_boroughs(data):
             Area code, Area name, 2001, 2002, ..., 2016, 2017
     """
     plt.figure(figsize=FIGSIZE)
+    plt.grid()
 
     plt.xlabel(YEAR_XLABEL)
     plt.xticks(np.arange(0, 18), years, rotation=90)
@@ -92,7 +99,7 @@ def plot_all_boroughs(data):
         plt.plot(borough_by_year, label=borough, linewidth=2)
 
     plt.legend()
-    plt.show()
+    #plt.show()
 
 
 def plot_stations(data, col, highlight_stations, see_stations):
@@ -100,6 +107,7 @@ def plot_stations(data, col, highlight_stations, see_stations):
     TODO: complete docstring
     """
     plt.figure(figsize=FIGSIZE)
+    plt.grid()
 
     plt.xlabel(YEAR_XLABEL)
     plt.xticks(np.arange(0,18), years, rotation=90)
@@ -116,7 +124,7 @@ def plot_stations(data, col, highlight_stations, see_stations):
             plt.plot(station_by_year, color='gray', linewidth=1, linestyle=':')
 
     plt.legend()
-    plt.show()
+    #plt.show()
 
 
 def plot_all_stations(data, col, see_stations):
@@ -124,6 +132,7 @@ def plot_all_stations(data, col, see_stations):
     TODO: complete docstring
     """
     plt.figure(figsize=FIGSIZE)
+    plt.grid()
 
     plt.xlabel(YEAR_XLABEL)
     plt.xticks(np.arange(0,18), years, rotation=90)
@@ -139,14 +148,15 @@ def plot_all_stations(data, col, see_stations):
         else:
             plt.plot(station_by_year, color='gray', linewidth=1, linestyle=':')
     plt.legend()
-    plt.show()
+    #plt.show()
 
 
-def plot_stations_percentage_changes(data, col, highlight_stations, see_stations):
+def plot_stations_changes(data, col, highlight_stations, see_stations):
     """
     TODO: complete docstring
     """
     plt.figure(figsize=FIGSIZE)
+    plt.grid()
 
     plt.xlabel(YEAR_XLABEL)
     plt.xticks(np.arange(0,18),years, rotation=90)
@@ -162,4 +172,4 @@ def plot_stations_percentage_changes(data, col, highlight_stations, see_stations
             plt.plot(station_by_year, color='gray', linewidth=1, linestyle=':')
 
     plt.legend()
-    plt.show()
+    #plt.show()

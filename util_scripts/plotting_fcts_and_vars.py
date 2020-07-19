@@ -48,6 +48,7 @@ def plot_boroughs(data):
             Area code, Area name, 2001, 2002, ..., 2016, 2017
     """
     plt.figure(figsize=FIGSIZE)
+    plt.grid()
 
     plt.xlabel(YEAR_XLABEL)
     plt.xticks(np.arange(0,18),years, rotation=90)
@@ -74,6 +75,7 @@ def plot_all_boroughs(data):
             Area code, Area name, 2001, 2002, ..., 2016, 2017
     """
     plt.figure(figsize=FIGSIZE)
+    plt.grid()
 
     plt.xlabel(YEAR_XLABEL)
     plt.xticks(np.arange(0, 18), years, rotation=90)
@@ -102,6 +104,7 @@ def plot_stations(data, col, highlight_stations, see_stations):
     TODO: complete docstring
     """
     plt.figure(figsize=FIGSIZE)
+    plt.grid()
 
     plt.xlabel(YEAR_XLABEL)
     plt.xticks(np.arange(0,18), years, rotation=90)
@@ -126,6 +129,7 @@ def plot_all_stations(data, col, see_stations):
     TODO: complete docstring
     """
     plt.figure(figsize=FIGSIZE)
+    plt.grid()
 
     plt.xlabel(YEAR_XLABEL)
     plt.xticks(np.arange(0,18), years, rotation=90)
@@ -149,6 +153,7 @@ def plot_stations_percentage_changes(data, col, highlight_stations, see_stations
     TODO: complete docstring
     """
     plt.figure(figsize=FIGSIZE)
+    plt.grid()
 
     plt.xlabel(YEAR_XLABEL)
     plt.xticks(np.arange(0,18),years, rotation=90)

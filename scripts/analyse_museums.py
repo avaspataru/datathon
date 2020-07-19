@@ -40,29 +40,60 @@ for (i,r) in dfs.iterrows():
                  continue
             dict[key] = int(r[j])
 
-i = 0
-for m in museum_names:
-    print(i,m)
-    i += 1
 
-indx = 13
+borough_to_museum = {'Camden': ['BRITISH MUSEUM', "SIR JOHN SOANE'S MUSEUM"],
+ 'Hackney': ['GEFFRYE MUSEUM'],
+ 'Lewisham': ['HORNIMAN MUSEUM (Excluding visits to the Garden)'],
+ 'Southwark': ['(IWM) LONDON',
+  '(IWM) HMS BELFAST',
+  'TATE BRITAIN ',
+  'TATE MODERN  '],
+ 'Westminster': ['(IWM) CHURCHILL WAR ROOMS ',
+  'NATIONAL GALLERY',
+  'NATIONAL PORTRAIT GALLERY',
+  'WALLACE COLLECTION'],
+ 'Kensington and Chelsea': ['(NHM) SOUTH KENSINGTON',
+  '(SMG) SOUTH KENSINGTON ',
+  '(V&A) SOUTH KENSINGTON',
+  '(V&A) THEATRE MUSEUM, COVENT GARDEN'],
+ 'Greenwich': ['ROYAL MUSEUMS GREENWICH '],
+ 'Tower Hamlets': ['(RA) WHITE TOWER (BASED AT THE TOWER OF LONDON) ',
+  '(V&A) MUSEUM OF CHILDHOOD, BETHNAL GREEN',
+  'MUSEUM IN DOCKLANDS'],
+ 'Hammersmith and Fulham': ['(V&A) BLYTHE HOUSE'],
+ 'City of London': ['MUSEUM OF LONDON']}
 
-to_plot_2012 = []
-to_plot_2011 = []
-to_plot_2013 = []
-for m in range(1,13):
-    k = (indx,8,m)
-    to_plot_2012.append(dict[k])
-    k = (indx,7,m)
-    to_plot_2011.append(dict[k])
-    k = (indx,9,m)
-    to_plot_2013.append(dict[k])
+boroughs = list(borough_to_museum.keys())
+
+# from museum and year to summer visits (July, August, September)
+museum_year_to_summer_visits = {}
+for i,m in museum_names:
+    for j in range(1,17):
+        year = j - 1
+        museum_year_to_summer_visits[ (i,year) ] = dict[ dict[ (i,year,7) ] + dict[ (i,year,8) + dict[ (i,year,9) ] ]
+
+print(museum_year_to_summer_visits)
+quit()
+# borough to summer visits
 
 
-plt.plot(range(1,13), to_plot_2012, label ="2012")
-plt.plot(range(1,13), to_plot_2011, label = "2011")
-plt.plot(range(1,13), to_plot_2013, label = "2013")
-plt.xticks(np.arange(1,13,1), ordered_month_names, rotation=90)
-plt.title("V&A Museum of Childhood visits by month and year")
-plt.legend()
-plt.show()
+#
+# to_plot_2012 = []
+# to_plot_2011 = []
+# to_plot_2013 = []
+# for m in range(1,13):
+#     k = (indx,8,m)
+#     to_plot_2012.append(dict[k])
+#     k = (indx,7,m)
+#     to_plot_2011.append(dict[k])
+#     k = (indx,9,m)
+#     to_plot_2013.append(dict[k])
+#
+#
+# plt.plot(range(1,13), to_plot_2012, label ="2012")
+# plt.plot(range(1,13), to_plot_2011, label = "2011")
+# plt.plot(range(1,13), to_plot_2013, label = "2013")
+# plt.xticks(np.arange(1,13,1), ordered_month_names, rotation=90)
+# plt.title("V&A Museum of Childhood visits by month and year")
+# plt.legend()
+# plt.show()

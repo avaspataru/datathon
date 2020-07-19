@@ -34,6 +34,8 @@ types = ["Bus", "Underground", "DLR", "Tram", "Overground", "Emirates Airline", 
 FIGSIZE = (10, 6)
 YEAR_XLABEL = 'Year'
 
+PLOTS_DIR = '../plots'
+
 
 # -----------------------------------------------------------------------------
 # Plotting functions

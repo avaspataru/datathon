@@ -35,9 +35,6 @@ There is a general downward trend of the number pubs and bars around London, inc
 ### Entertainment
 In the summer of 2012, almost all London museums show a decrease in the number of visitors, as most tourists were attending the Olympics instead of visiting museums. Post 2012 Olympics, we notice that almost all museums show a slight increase in the number of visitors. In East London, The Royal Museum of Greenwich saw an increase in the number of visits in July-September in 2013, compared to 2011 and 2012.
 
-
-![museum](https://github.com/avaspataru/datathon/blob/master/plots/Royal_Museum_Greenwich_Visits.png)
-
 ### Transport 
 Stratford joins King’s Cross, Victoria, and Oxford Circus, as one of themost frequented stations on weekends, and ranks in the top 5% for most enteredstations on an average weekday across all London underground stations, post 2011. 
 
@@ -53,4 +50,6 @@ We observe a spike in the number of journeys taken via the DLR in the summer of 
 ## Conclusions
 We have shown evidence that suggests a correlation between infrastructure investment for the  London  2012  Olympics  and  revitalization  of  East  London  boroughs.   This  evidence  is observed through multiple indicators, such as growth in the mean house prices and the increased use of transportation links in the area.
 
-More of our findings in the report file. 
+More of our findings in the [report file]([I'm an inline-style link](https://www.google.com)).
+
+

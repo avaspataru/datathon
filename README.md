@@ -2,7 +2,7 @@
 A Case Study on the London 2012 Olympicsand its effect on the growth boroughs of London.
 
 ## Approach 
-we focused on the 6 London growth boroughs, which were targetted by the Olympics organising comittee and attempted to determine if these have been revitalised by hosting the games. The approach we took was to investigate: 
+We focused on the 6 London growth boroughs, which were targetted by the Olympics organising comittee and attempted to determine if these have been revitalised by hosting the games. The approach we took was to investigate: 
 * economy and business
 * housing
 * dining (restaurants, bars, pubs, takeaway food stands) 
@@ -50,6 +50,6 @@ We observe a spike in the number of journeys taken via the DLR in the summer of 
 ## Conclusions
 We have shown evidence that suggests a correlation between infrastructure investment for the  London  2012  Olympics  and  revitalization  of  East  London  boroughs.   This  evidence  is observed through multiple indicators, such as growth in the mean house prices and the increased use of transportation links in the area.
 
-More of our findings in the [report file]([I'm an inline-style link](https://www.google.com)).
+More of our findings in the [report file](https://github.com/avaspataru/datathon/blob/read-me-updates/Final_report.pdf).
 
 

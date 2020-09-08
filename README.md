@@ -16,7 +16,7 @@ We have shown evidence that suggests a correlation between infrastructure invest
 
 ### Economy and Business
 We observe the number of active enterprises. In particular,  the number of active enterprises in the borough Newham (where Stratford station islocated) nearly tripled, with other growth boroughs showing remarkable developments as well.
-![econ](https://github.com/avaspataru/datathon/blob/master/plots/london_econ_f.png =250x)
+![econ](https://github.com/avaspataru/datathon/blob/master/plots/london_econ_f.png | width=100)
 
 ### Housing 
 We observe significant change in average house prices in the host boroughs. Newham and Waltham Forest both show multipliers of 1.91. This indicates that house prices nearly doubled over the period analysed.

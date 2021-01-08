@@ -66,34 +66,37 @@ borough_to_museum = {'Camden': ['BRITISH MUSEUM', "SIR JOHN SOANE'S MUSEUM"],
 boroughs = list(borough_to_museum.keys())
 
 # from museum and year to summer visits (July, August, September)
-museum_year_to_summer_visits = {}
-for i,m in museum_names:
-    for j in range(1,17):
-        year = j - 1
-        museum_year_to_summer_visits[ (i,year) ] = dict[ dict[ (i,year,7) ] + dict[ (i,year,8) + dict[ (i,year,9) ] ]
+#museum_year_to_summer_visits = {}
+##for i,m in museum_names:
+#    for j in range(1,17):
+#        year = j - 1
+#        museum_year_to_summer_visits[ (i,year) ] = dict[ dict[ (i,year,7) ] + dict[ (i,year,8) + dict[ (i,year,9) ] ]
 
-print(museum_year_to_summer_visits)
-quit()
+#print(museum_year_to_summer_visits)
+#quit()
 # borough to summer visits
 
 
+indx = 13
+
+to_plot_2012 = []
+to_plot_2011 = []
+to_plot_2013 = []
+for m in range(1,13):
+    k = (indx,8,m)
+    to_plot_2012.append(dict[k])
+    k = (indx,7,m)
+    to_plot_2011.append(dict[k])
+    k = (indx,9,m)
+    to_plot_2013.append(dict[k])
 #
-# to_plot_2012 = []
-# to_plot_2011 = []
-# to_plot_2013 = []
-# for m in range(1,13):
-#     k = (indx,8,m)
-#     to_plot_2012.append(dict[k])
-#     k = (indx,7,m)
-#     to_plot_2011.append(dict[k])
-#     k = (indx,9,m)
-#     to_plot_2013.append(dict[k])
 #
-#
-# plt.plot(range(1,13), to_plot_2012, label ="2012")
-# plt.plot(range(1,13), to_plot_2011, label = "2011")
-# plt.plot(range(1,13), to_plot_2013, label = "2013")
-# plt.xticks(np.arange(1,13,1), ordered_month_names, rotation=90)
-# plt.title("V&A Museum of Childhood visits by month and year")
-# plt.legend()
-# plt.show()
+plt.figure(figsize=(10, 6))
+
+plt.plot(range(1,13), to_plot_2012, label ="2012")
+plt.plot(range(1,13), to_plot_2011, label = "2011")
+plt.plot(range(1,13), to_plot_2013, label = "2013")
+plt.xticks(np.arange(1,13,1), ordered_month_names, rotation=0)
+plt.title("Royal Museum of Greenwich visits by month and year")
+plt.legend()
+plt.show()
